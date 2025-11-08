@@ -1,0 +1,889 @@
+Restaurant_Name,Restaurant_Style,Price_Per_Two,Price_For_One,Discount,Max_Discount,Rating,Locality,City
+63 Degree Modern Regional Buffet,Regional Indian,2400,1200,25% Off,25,4.1,Gachibowli,Hyderabad
+Golconda Pavilion,"North Indian, Multicuisine, Continental, Desserts, Finger Food, Chinese",2500,1250,10% Off + 25% Off,25,4.4,ITC Kohenur,Hyderabad
+Exotica,Multicuisine,1500,750,15% Off + 25% Off,25,4.3,Banjara Hills,Hyderabad
+Forefathers,Multicuisine,1500,750,25% Off,25,4.6,"Road No. 45, Jubilee Hills",Hyderabad
+Aster Cafe & Kitchen,Multicuisine,1000,500,10% Off + 25% Off,25,4.0,"Road No. 12, Banjara Hills",Hyderabad
+The Ofen,"Mexican, Italian, Beverages",2000,1000,20% Off + 25% Off,25,5.0,Banjara Hills,Hyderabad
+one8 Commune,Multicuisine,2500,1250,25% Off,25,4.6,Hitech City,Hyderabad
+Pizza Zone,Italian,1000,500,25% Off,25,4.0,Habsiguda,Hyderabad
+Fuel Cafe,Cafe,800,400,15% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+7 Sisters,North Eastern,700,350,30% Off + 25% Off,30,4.4,Banjara Hills,Hyderabad
+Habitat Cafe,Multicuisine,1200,600,10% Off + 25% Off,25,4.7,Banjara Hills,Hyderabad
+Hibacci,"Chinese, North Eastern, Pan Asian, Asian",1250,625,15% Off + 25% Off,25,4.4,Banjara Hills,Hyderabad
+The Dining Room,"Desserts, Multicuisine, Continental",3500,1750,30% Off + 25% Off,30,4.1,Park Hyatt,Hyderabad
+Pakka Local,Multicuisine,1200,600,25% Off :Payeazy,25,4.4,"Road No. 7, Banjara Hills",Hyderabad
+Hummus House,Mediterranean,1100,550,10% Off + 25% Off,25,4.8,"Road No. 12, Banjara Hills",Hyderabad
+ZYTHUM Brewing Co.,Multicuisine,2500,1250,25% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+Vasaara,"South Indian, European",1000,500,30% Off + 25% Off,30,4.0,Banjara Hills,Hyderabad
+Ohri's Eatmor,Multicuisine,1200,600,15% Off + 25% Off,25,3.8,Banjara Hills,Hyderabad
+Mazuri Cafe,"Multicuisine, European",1000,500,30% Off + 25% Off,30,4.0,Banjara Hills,Hyderabad
+A'La Liberty,"Indian, European",1300,650,10% Off + 25% Off,25,4.3,Banjara Hills,Hyderabad
+La Pino'z Pizza,"Italian, Pizza",400,200,10% Off + 25% Off,25,5.0,"Road No. 12, Banjara Hills",Hyderabad
+Rika ,"Asian, Japanese",3000,1500,25% Off + 25% Off,25,4.4,Park Hyatt,Hyderabad
+Aish,"South Indian, Indian",2400,1200,30% Off + 25% Off,30,4.0,The Park,Hyderabad
+Urban Nemo Cafe In Garden,Multicuisine,800,400,25% Off + 25% Off,25,4.9,Jubilee Hills,Hyderabad
+Imli Sarai,European,1800,900,20% Off + 25% Off,25,3.0,Banjara Hills,Hyderabad
+Namchi - Fusion Of Taste Buds,Indian,1000,500,20% Off + 25% Off,25,4.4,Banjara Hills,Hyderabad
+Aqua ,"Finger Food, Cocktail Menu",2500,1250,30% Off + 25% Off,30,4.4,The Park,Hyderabad
+Chef Inam's Steak House,"Barbeque, American",1800,900,10% Off + 25% Off,25,5.0,Banjara Hills,Hyderabad
+The Octagon Cafe,European,1600,800,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Harry's The Pub,"Cocktail Menu, Finger Food",1400,700,35% Off + 25% Off,35,4.8,Aditya Park,Hyderabad
+Flurys,Bakery,1000,500,10% Off + 25% Off,25,5.0,"Road No. 7, Banjara Hills",Hyderabad
+Kasuall,Multicuisine,1200,600,50% Off + 25% Off,50,3.5,Somajiguda,Hyderabad
+Alfi's Kitchen,Bakery,300,150,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Cayenne ,Multicuisine,2000,1000,40% Off + 25% Off,40,4.3,Mercure Hyderabad,KCP
+"Tre forni, Italian Restaurant & Bar","Italian, Pizza",4000,2000,25% Off + 25% Off,25,4.0,Park Hyatt,Hyderabad
+Kabul Darbar,"Arabian, Afghani",1000,500,10% Off + 25% Off,25,3.9,Tolichowki,Hyderabad
+Ohri's Cake Nation,Bakery,800,400,10% Off + 25% Off,25,1.0,Banjara Hills,Hyderabad
+Lemerian Workin Cafe,Multicuisine,800,400,10% Off + 25% Off,25,5.0,"Road No. 12, Banjara Hills",Hyderabad
+Hard Rock Cafe,Multicuisine,1800,900,30% Off + 25% Off,30,4.2,"GVK One Mall, Banjara",Hills
+Bourbon & Breeze,Multicuisine,1500,750,50% Off + 25% Off,50,4.1,Banjara Hills,Hyderabad
+Bar 41 ,"Cocktail Menu, Finger Food",2000,1000,25% Off :Payeazy,25,4.5,Radisson Blu Plaza Hotel,Hyderabad
+Holy Basil,Pan Asian,1200,600,25% Off :Payeazy,25,4.5,Radisson Blu Plaza Hotel,Hyderabad
+Verandah ,Multicuisine,2500,1250,35% Off + 25% Off,35,4.5,The Park,Hyderabad
+Chill and Terrace ,"Indian, European",1500,750,25% Off :Payeazy,25,3.9,Radisson Blu Plaza Hotel,Hyderabad
+Blu Café Lounge,"Bakery, Cafe",900,450,25% Off :Payeazy,25,4.3,Radisson Blu Plaza Hotel,Hyderabad
+Serai Kitchen's,Multicuisine,1600,800,40% Off + 25% Off,40,3.4,Hotel Deccan Serai,Hyderabad
+By The Bay,"Cocktail Menu, Multicuisine",1200,600,10% Off + 25% Off,25,4.2,Necklace Road,Hyderabad
+Kuchipudi,South Indian,1000,500,50% Off + 25% Off,50,3.8,Katriya Hotels,Hyderabad
+Wow! China Bistro,Chinese,600,300,25% Off :Payeazy,25,1.0,Banjara Hills,Hyderabad
+Tulips,Multicuisine,1500,750,10% Off + 25% Off,25,4.3,Hotel,GreenPark
+AnTeRa Kitchen & Bar,South Indian,1500,750,10% Off + 25% Off,25,4.3,Gachibowli,Hyderabad
+The Waterfront Bar & Grill,"Chinese, Indian",1200,600,15% Off + 25% Off,25,2.7,Necklace Road,Hyderabad
+MoXa Kitchen,Multicuisine,1300,650,35% Off + 25% Off,35,4.2,Jubilee Hills,Hyderabad
+Masala Republic by Dadu's,Multicuisine,1100,550,30% Off + 25% Off,30,4.4,Banjara Hills,Hyderabad
+Tolly Junction Rest O Bar,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Bel Posto The Cafe,Multicuisine,800,400,30% Off + 25% Off,30,4.5,"Road No. 36, Jubilee Hills",Hyderabad
+Rasa by Ashoka,Indian,1500,750,25% Off + 25% Off,25,4.6,Best Western Ashoka,Hyderabad
+MOB - Belgium Beer House,Multicuisine,1500,750,10% Off + 25% Off,25,4.0,Film Nagar,Hyderabad
+Palace Heights,Multicuisine,1500,750,30% Off + 25% Off,30,4.1,"Road No. 12, Banjara Hills",Hyderabad
+Mandi King Elite Arabian Restaurant,Arabian,1000,500,10% Off + 25% Off,25,4.2,Tolichowki,Hyderabad
+Promenade,Multicuisine,1000,500,35% Off + 25% Off,35,4.1,Aditya Park,Hyderabad
+Chili’s Grill & Bar,Tex-Mex,1500,750,15% Off + 25% Off,25,3.8,Banjara Hills,Hyderabad
+Sam's Pizza,"Pizza, Italian",700,350,15% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Heart Cup Coffee,Multicuisine,2000,1000,30% Off + 25% Off,30,4.7,Kompally,Hyderabad
+TOS Club & Lounge,Multicuisine,1000,500,15% Off + 25% Off,25,3.2,Banjara Hills,Hyderabad
+Insomnia,"Finger Food, Cocktail Menu",1500,750,20% Off + 25% Off,25,4.0,"Road No. 36, Jubilee Hills",Hyderabad
+Melange ,Multicuisine,2200,1100,30% Off + 25% Off,30,4.0,The Golkonda,Hotel
+Aura Nightclub,Multicuisine,1800,900,50% Off + 25% Off,50,3.0,Madhapur,Hyderabad
+Bikanervala,Multicuisine,1200,600,10% Off + 25% Off,25,4.7,Bikanervala Boutique,Hyderabad
+Zouq ,Turkish,600,300,10% Off + 25% Off,25,3.9,"Road No. 2, Banjara Hills",Hyderabad
+10 Biryanis,"Mughlai, North Indian",1200,600,20% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Rayalaseema Ruchulu,"Andhra, South Indian",800,400,10% Off + 25% Off,25,4.5,Ameerpet,Hyderabad
+Rium Cafe,"Chinese, Continental",1200,600,50% Off + 25% Off,50,3.2,Banjara Hills,Hyderabad
+Ice N Spice,"North Indian, South Indian",750,375,30% Off + 25% Off,30,4.0,Hotel Inner,Circle
+Zanzi Bar,"Finger Food, Cocktail Menu",1900,950,25% Off + 25% Off,25,5.0,The Golkonda,Hotel
+Barbeque Nation,"Multicuisine, Barbeque",2000,1000,25% Off :Payeazy,25,4.5,"Road No. 1, Banjara Hills",Hyderabad
+Zega ,"Sushi, Pan Asian, Asian",3000,1500,30% Off + 25% Off,30,4.5,Sheraton Hyderabad,Hotel
+Arambham - Flavours of South,Multicuisine,350,175,15% Off + 25% Off,25,4.0,Nanakramguda,Hyderabad
+Seventh Heaven,Multicuisine,1500,750,10% Off + 25% Off,25,4.4,Panjagutta,Hyderabad
+Jewel of Nizam,Indian,2200,1100,20% Off + 25% Off,25,3.8,The Golkonda,Hotel
+Kebabs & Kurries,Indian,3400,1700,10% Off + 25% Off,25,4.8,ITC,Kakatiya
+Cuiscent ,Multicuisine,600,300,25% Off + 25% Off,25,3.5,Lakdikapul,Hyderabad
+Once Upon A Time ,Indian,2000,1000,50% Off + 25% Off,50,4.3,Hotel,GreenPark
+Hydrate The Bar,"Finger Food, Cocktail Menu",1100,550,20% Off + 25% Off,25,4.0,Hampshire Plaza Hotel,Hyderabad
+Cassia,Multicuisine,1200,600,20% Off + 25% Off,25,3.8,Hampshire Plaza Hotel,Hyderabad
+Punjab Grill,North Indian,1100,550,30% Off + 25% Off,30,3.4,Sarath City Capital Mall,Kondapur
+24/7 Gallery Café,Multicuisine,1500,750,20% Off + 25% Off,25,3.5,Hyatt Place Hyderabad Banjara,Hills
+Kismet ,"Cocktail Menu, Finger Food",3000,1500,30% Off + 25% Off,30,2.6,The Park,Hyderabad
+Platform ,Multicuisine,800,400,25% Off + 25% Off,25,4.3,Kompally,Hyderabad
+The Terrace,Multicuisine,1800,900,40% Off + 25% Off,40,5.0,Mercure Hyderabad,KCP
+Medley - Pure Vegetarian,Multicuisine,1000,500,20% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+Mairu Bistro,Cafe,1000,500,50% Off + 25% Off,50,4.3,Jubilee Hills,Hyderabad
+Solcito ,Multicuisine,5000,2500,25% Off :Payeazy,25,4.0,The Leela,Hyderabad
+Fiesta Multi Cuisine Restaurant,Multicuisine,900,450,35% Off + 25% Off,35,4.0,Shamirpet,Hyderabad
+Pi ,Multicuisine,2000,1000,25% Off + 25% Off,25,3.5,Hotel Avasa,Hyderabad
+AB's - Absolute Barbecues,"Barbeque, Multicuisine",1850,925,Free Cocktail or Mocktail + 25% Off,25,4.5,"Road No. 1, Banjara Hills",Hyderabad
+Ajwa Arabian Mandi Multi Cuisine Restaurant,Multicuisine,700,350,15% Off + 25% Off,25,4.0,"Road No. 12, Banjara Hills",Hyderabad
+Sattvam,Multicuisine,1700,850,25% Off :Payeazy,25,4.0,"Road No. 2, Banjara Hills",Hyderabad
+Destination Cafe,Italian,700,350,30% Off + 25% Off,30,5.0,Kukatpally,Hyderabad
+Raise The Bar,Multicuisine,2000,1000,50% Off + 25% Off,50,3.5,Gachibowli,Hyderabad
+Lillie’s - The Boho Cafe,Continental,1000,500,25% Off :Payeazy,25,5.0,Jubilee Hills,Hyderabad
+Kinara Grand,Multicuisine,1000,500,20% Off + 25% Off,25,4.0,Ameerpet,Hyderabad
+EKAA - A Harmony Of Flavours,Multicuisine,800,400,20% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Cu2 Brewhouse,Multicuisine,2000,1000,40% Off + 25% Off,40,4.4,Kokapet,Hyderabad
+Sync Resto Bar,Indian,1300,650,15% Off + 25% Off,25,4.8,Best Western Ashoka,Hyderabad
+Hooch- Club & Kitchen,Multicuisine,1800,900,55% Off + 25% Off,55,1.0,Banjara Hills,Hyderabad
+Casbah,Mediterranean,2500,1250,25% Off + 25% Off,25,1.8,The Westin Hyderabad,Mindspace
+Wisphot,Finger Food,500,250,20% Off + 25% Off,25,4.0,Punjagutta,Hyderabad
+Dakshin,South Indian,3400,1700,10% Off + 25% Off,25,4.3,ITC,Kakatiya
+The Sicca Bar,"Finger Food, Cocktail Menu",1800,900,30% Off + 25% Off,30,1.0,The Park,Hyderabad
+TTeokBoKKi,"Japanese, Korean",1000,500,30% Off + 25% Off,30,5.0,Gachibowli,Hyderabad
+Harley's Fine Baking,"Cafe, Bakery",600,300,20% Off + 25% Off,25,4.9,Peeramcheru,Hyderabad
+Deccan Pavilion,Multicuisine,2600,1300,10% Off + 25% Off,25,3.6,ITC,Kakatiya
+Onesta,Italian,600,300,20% Off + 25% Off,25,4.0,"Road No. 1, Banjara Hills",Hyderabad
+By The Bottle,"Chinese, North Indian, Continental",1000,500,50% Off + 25% Off,50,3.5,Jubilee Hills,Hyderabad
+Dakshin Haveli,South Indian,400,200,25% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Little Italy,"Mexican, Italian",1500,750,10% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Milano Ice Cream,Ice Cream,400,200,10% Off + 25% Off,25,4.2,Jubilee Hills,Hyderabad
+Kritunga The Palegars Cuisine,Multicuisine,1200,600,10% Off + 25% Off,25,3.3,Somajiguda,Hyderabad
+Nataka Global Kitchen And Cafe,Multicuisine,1500,750,20% Off + 25% Off,25,4.1,Jubilee Hills,Hyderabad
+Tabla,Multicuisine,1333,666,20% Off + 25% Off,25,4.2,Banjara Hills,Hyderabad
+Krishna's Kitchen,South Indian,1400,700,10% Off + 25% Off,25,4.6,Madhapur,Hyderabad
+Mamagoto,"Pan Asian, Asian",1200,600,20% Off + 25% Off,25,4.2,Kondapur,Hyderabad
+Punjabi Affair,Multicuisine,1100,550,30% Off + 25% Off,30,4.2,Madhapur,Hyderabad
+Ming Ustad,"Indian, Chinese",1500,750,25% Off + 25% Off,25,4.6,Hitech City,Hyderabad
+Wow! Momo,Momos,400,200,15% Off + 25% Off,25,5.0,Somajiguda,Hyderabad
+Flechazo,Multicuisine,1800,900,30% Off + 25% Off,30,3.8,Kukatpally,Hyderabad
+The House Of Koyilaa,Multicuisine,800,400,30% Off + 25% Off,30,4.0,Madhapur,Hyderabad
+Yummy Bee Khajaguda,Cafe,1000,500,25% Off + 25% Off,25,2.5,Khajaguda,Hyderabad
+Food Exchange,"Cocktail Menu, Multicuisine",2500,1250,50% Off + 25% Off,50,4.4,Novotel Hyderabad Convention,Centre
+Sip N Screen Cafe,Multicuisine,500,250,20% Off + 25% Off,25,5.0,Hafeezpet,Hyderabad
+Tiga,Pan Asian,3500,1750,25% Off :Payeazy,25,4.0,The Leela,Hyderabad
+The Gourmet Affair,Multicuisine,600,300,15% Off + 25% Off,25,4.0,Punjagutta,Hyderabad
+Fat Boy's Burger,Multicuisine,400,200,15% Off + 25% Off,25,4.0,Padmarao Nagar,Hyderabad
+The Fifth Street,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Fat Tiger,"Beverages, European",400,200,15% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Heart Cup Coffee,Multicuisine,1600,800,20% Off + 25% Off,25,3.9,Gachibowli,Hyderabad
+Am Aha Telugu Kitchen and Bar,"South Indian, Multicuisine",1000,500,20% Off + 25% Off,25,4.2,Inorbit Mall Cyberabad,Madhapur
+Saffron Restaurant,North Indian,1200,600,15% Off + 25% Off,25,3.6,Jubilee Hills,Hyderabad
+Ironhill cafe,Multicuisine,400,200,20% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Indus,Multicuisine,1500,750,25% Off + 25% Off,25,4.2,Ellaa Hotels,Hyderabad
+The Labyrinth Lakefront,Continental,1100,550,10% Off + 25% Off,25,4.5,Gandipet,Hyderabad
+Vivaha Bhojnambu,"South Indian, Andhra",1400,700,25% Off + 25% Off,25,3.5,Secunderabad,Hyderabad
+Ping's Café Orient,Pan Asian,1800,900,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Garage Moto Cafe,Multicuisine,800,400,10% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Saz Pizzeria,European,1000,500,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Candy cloud factory,"Fast Food, Beverages, Desserts",300,150,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+ ASF - Ancient Stone Flames BBQ & Grill,"Multicuisine, Barbeque",2400,1200,20% Off + 25% Off,25,4.0,"Road No. 36, Jubilee Hills",Hyderabad
+Kanak,Indian,4500,2250,25% Off + 25% Off,25,4.5,Trident,Hyderabad
+Wild Rovers Sky Bar & Lounge,Finger Food,1400,700,25% Off + 25% Off,25,4.4,Gachibowli,Hyderabad
+Daily Rituals,Multicuisine,1300,650,20% Off + 25% Off,25,4.3,Jubilee Hills,Hyderabad
+Jolly Bros and Co.,"Finger Food, Cocktail Menu",1500,750,10% Off + 25% Off,25,3.5,Banjara Hills,Hyderabad
+Spice It ,Indian,2400,1200,50% Off + 25% Off,50,3.1,Ibis Hotel,Hyderabad
+The Palm Banjara,Multicuisine,800,400,10% Off + 25% Off,25,3.0,Jubilee Hills,Hyderabad
+Chirp,Multicuisine,1000,500,30% Off + 25% Off,30,2.8,Gachibowli,Hyderabad
+Verde,Italian,2000,1000,25% Off + 25% Off,25,5.0,"Inorbit Mall, Hitech",City
+Kadali Kitchen,Indian,1000,500,25% Off :Payeazy,25,4.8,Jubilee Hills,Hyderabad
+Paradise Biryani - A Legend since ,Biryani,800,400,15% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Telusa Telugu Kitchen & Bar,Indian,1600,800,10% Off + 25% Off,25,3.5,Kokapet,Hyderabad
+Southern Kitchen,South Indian,900,450,20% Off + 25% Off,25,4.5,Gowlidoddy,Hyderabad
+Alley 91 Bowling Bar,Multicuisine,1800,900,15% Off + 25% Off,25,4.0,Financial District,Hyderabad
+Desserts by Renu Jivan,Desserts,250,125,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Ram's Dosa House,Cafe,250,125,10% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Hazy Owl,"Cafe, Coffee",350,175,10% Off + 25% Off,25,4.0,Somajiguda,Hyderabad
+T&T - Tea and Tiffins,Cafe,300,150,10% Off + 25% Off,25,4.0,Somajiguda,Hyderabad
+Delight bakery,Bakery,300,150,10% Off + 25% Off,25,4.0,Begumpet,Hyderabad
+The Great Indian Chai,"Cafe, Coffee and Tea",300,150,10% Off + 25% Off,25,4.0,Somajiguda,Hyderabad
+Jonathan's Kitchen ,Multicuisine,2800,1400,30% Off + 25% Off,30,4.3,Fairfield by Marriott,Hyderabad
+The Game Palacio,Multicuisine,1800,900,25% Off + 25% Off,25,5.0,Hitech City,Hyderabad
+Barkaas Indo-Arabic Restaurant,Mandi,600,300,15% Off + 25% Off,25,4.3,S R Nagar,Hyderabad
+Aidu,South Indian,2200,1100,15% Off + 25% Off,25,4.2,"Road No. 45, Jubilee Hills",Hyderabad
+Lifafa Café,Italian,800,400,20% Off + 25% Off,25,4.8,Uppal,Hyderabad
+Mandi Bistro,"North Indian, Arabian",800,400,20% Off + 25% Off,25,4.0,Raidurgam,Hyderabad
+YouMee ,"Pan Asian, Asian",1500,750,25% Off + 25% Off,25,4.8,Kukatpally,Hyderabad
+"TUYA – The South,Retold",South Indian,900,450,30% Off + 25% Off,30,4.0,Jubilee Hills,Hyderabad
+Kortyard Cafe,Multicuisine,1000,500,10% Off + 25% Off,25,1.0,Jubilee Hills,Hyderabad
+Hard Rock Cafe,Finger Food,1500,750,20% Off + 25% Off,25,4.2,Hitech City,Hyderabad
+Fly - Feel The High,"Cocktail Menu, Multicuisine",1400,700,20% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Link Cafe,"Beverages, Fast Food, Finger Food",2000,1000,20% Off + 25% Off,25,4.7,Sheraton Hyderabad,Hotel
+Luno Lounge Bar & Kitchen,Multicuisine,1500,750,50% Off + 25% Off,50,3.8,Nanakramguda,Hyderabad
+Malnadu Kitchen,Multicuisine,900,450,20% Off + 25% Off,25,4.2,Kompally,Hyderabad
+Shanghai Flavours Of China Town,Chinese,1000,500,30% Off + 25% Off,30,4.0,Begumpet,Hyderabad
+Underdoggs ,Multicuisine,2100,1050,25% Off + 25% Off,25,5.0,Raidurgam,Hyderabad
+Cafe Baatakani,Multicuisine,1000,500,30% Off + 25% Off,30,4.5,L B Nagar,Hyderabad
+Mindspace Social,Multicuisine,2000,1000,20% Off + 25% Off,25,3.9,Hitech City,Hyderabad
+Makau,Asian,2000,1000,30% Off + 25% Off,30,5.0,Jubilee Hills,Hyderabad
+Golden Pavilion,Multicuisine,1500,750,10% Off + 25% Off,25,2.7,Banjara Hills,Hyderabad
+Barbeque Spice,Barbeque,1500,750,15% Off + 25% Off,25,3.8,Abids,Hyderabad
+The Gallery Cafe,Continental,900,450,15% Off + 25% Off,25,5.0,Banjara Hills,Hyderabad
+Sesame - Asian & Himalayan Cuisine,"Chinese, Desserts, Japanese, Pan Asian, Asian, Himalyan",1200,600,10% Off + 25% Off,25,4.8,Gachibowli,Hyderabad
+Feast ,"Indian, Multicuisine, Western",2400,1200,30% Off + 25% Off,30,4.1,Sheraton Hyderabad,Hotel
+Rasyumm ,Multicuisine,1000,500,30% Off + 25% Off,30,3.8,Gachibowli,Hyderabad
+FEU - Dessert Bar & Kitchen,Multicuisine,1400,700,10% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Basil Bistro,"Coffee, Pizza, Pasta, Biryani",500,250,25% Off + 25% Off,25,4.0,Kompally,Hyderabad
+Seasonal Tastes ,Multicuisine,3000,1500,25% Off + 25% Off,25,4.6,The Westin Hyderabad,Mindspace
+Kake Di Hatti,Multicuisine,1800,900,15% Off + 25% Off,25,4.7,"Road No. 36, Jubilee Hills",Hyderabad
+TGI Friday's,Multicuisine,2500,1250,25% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Mamalola Penthouse,Multicuisine,1500,750,25% Off + 25% Off,25,4.6,Nanakramguda,Hyderabad
+Krispy Kreme,Desserts,350,175,15% Off + 25% Off,25,4.0,Banjara Hills,Hyderabad
+Club Fire,Multicuisine,1500,750,25% Off :Payeazy,25,4.0,Jubilee Hills,Hyderabad
+Telangana Treats,Multicuisine,700,350,15% Off + 25% Off,25,3.5,Kothapet,Hyderabad
+Squeeze @ The Lime,Multicuisine,1200,600,25% Off + 25% Off,25,4.3,The Lime Boutique Suites,Hyderabad
+Masterpiece,Multicuisine,3200,1600,20% Off + 25% Off,25,4.3,Gachibowli,Hyderabad
+PREZMO,Continental,1400,700,10% Off + 25% Off,25,4.5,Kokapet,Hyderabad
+The Hoppery,"Cocktail Menu, European",1600,800,15% Off + 25% Off,25,4.4,Jubilee Hills,Hyderabad
+3 Bro's Buffet,Multicuisine,1400,700,10% Off + 25% Off,25,4.5,Kompally,Hyderabad
+Cups N Plates,Fast Food,900,450,10% Off + 25% Off,25,4.6,Lakdikapul,Hyderabad
+Turquoise,"European, Indian",1900,950,30% Off + 25% Off,30,4.3,Le Méridien,Hyderabad
+The Bedford BakeHouse & TeaRoom,"European, Italian, Bakery",1100,550,10% Off + 25% Off,25,4.5,Banjara Hills,Hyderabad
+Marco Polo Bar,Finger Food,2700,1350,10% Off + 25% Off,25,4.3,ITC,Kakatiya
+Fusion ,Multicuisine,1800,900,30% Off + 25% Off,30,3.5,"Inorbit Mall, Hitech",City
+Esthio,Italian,1150,575,10% Off + 25% Off,25,4.1,Somajiguda,Hyderabad
+Hotel Kass,Multicuisine,1200,600,15% Off + 25% Off,25,4.9,Hotel Kass,Hyderabad
+Jaaju Bar & Kitchen,South Indian,1200,600,20% Off + 25% Off,25,4.2,Chanda Nagar,Hyderabad
+Params Kitchen & Cafe,Multicuisine,600,300,10% Off + 25% Off,25,4.0,Ameerpet,Hyderabad
+Banjara9 Multi Cuisine Restaurant,Multicuisine,1000,500,10% Off + 25% Off,25,4.0,Khairatabad,Hyderabad
+Okra,Multicuisine,2500,1250,30% Off + 25% Off,30,3.8,Hyderabad Marriott Hotel & Convention Centre,Hyderabad
+Deccan Cafe Restaurant ,Indian,800,400,10% Off + 25% Off,25,4.0,Park Continental,Hyderabad
+Chandra Haveli,Multicuisine,800,400,15% Off + 25% Off,25,3.0,Jubilee Hills,Hyderabad
+Bharpur Multicusine Family Restaurant,Multicuisine,1000,500,10% Off + 25% Off,25,4.0,Punjagutta,Hyderabad
+Barbeque Holic,"Multicuisine, Barbeque",1500,750,20% Off + 25% Off,25,4.0,Kondapur,Hyderabad
+Jasper,Indian,2000,1000,25% Off + 25% Off,25,3.7,Le Méridien,Hyderabad
+"Savya ,The South Indian Kitchen",South Indian,1500,750,30% Off + 25% Off,30,4.0,Madhapur,Hyderabad
+Moonlight Bar,Finger Food,1200,600,15% Off + 25% Off,25,2.7,Best Western Ashoka,Hyderabad
+Arabian Nights Mandi Restaurant,Multicuisine,600,300,10% Off + 25% Off,25,3.5,Ameerpet,Hyderabad
+Ohri's Jiva,Indian,700,350,10% Off + 25% Off,25,4.3,Begumpet,Hyderabad
+Le Cafe,Multicuisine,1500,750,50% Off + 25% Off,50,4.6,Novotel Hyderabad Convention,Centre
+Kangan,North Indian,2500,1250,25% Off + 25% Off,25,4.4,The Westin Hyderabad,Mindspace
+Ta.Ma.Sha.  Veg Cafe Gunrock,Multicuisine,800,400,40% Off + 25% Off,40,5.0,Secunderabad,Hyderabad
+Alanati,Multicuisine,1200,600,25% Off :Payeazy,25,4.0,Jubilee Hills,Hyderabad
+Ohri's Sahib's Barbecue,Mughlai,2500,1250,20% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Holi Restaurant & Bar,Multicuisine,1000,500,20% Off + 25% Off,25,4.8,Kukatpally,Hyderabad
+Kritaa Nagar,Indian,1400,700,20% Off + 25% Off,25,4.2,Financial District,Hyderabad
+Peg Bro,Multicuisine,1500,750,25% Off + 25% Off,25,4.2,Bachupally,Hyderabad
+ZING - Sky Bar + Lounge,Multicuisine,1500,750,25% Off :Payeazy,25,4.1,Hyatt Place Hyderabad Banjara,Hills
+Theth Masala (Gandipet),Multicuisine,1600,800,15% Off + 25% Off,25,4.4,Gandipet,Hyderabad
+The Big Star Cafe,"Coffee, Bakery",1000,500,25% Off :Payeazy,25,4.2,Financial District,Hyderabad
+Hyderabad Mandi Restaurant ,Multicuisine,450,225,Free Beverages + 25% Off,25,4.0,Yousufguda,Hyderabad
+Venue Restaurant,Multicuisine,1200,600,20% Off + 25% Off,25,4.0,Hotel Quality Inn Residency,Hyderabad
+The Globe Grub,Multicuisine,1300,650,15% Off + 25% Off,25,4.3,"Road No. 36, Jubilee Hills",Hyderabad
+Chai Point ,"Cafe, Street Food",250,125,25% Off :Payeazy,25,5.0,Banjara Hills,Hyderabad
+Tiger Lily Coffee & Bistro,Multicuisine,1200,600,10% Off + 25% Off,25,3.5,Nanakramguda,Hyderabad
+Kyma,"Mediterranean, Asian",2000,1000,25% Off :Payeazy,25,4.5,Hitech City,Hyderabad
+Amara,Multicuisine,5000,2500,25% Off + 25% Off,25,4.5,Trident,Hyderabad
+Grill By The Pool,Multicuisine,2000,1000,20% Off + 25% Off,25,4.0,Ellaa Residence,Hyderabad
+Ironhill Brewery,Multicuisine,1900,950,10% Off + 25% Off,25,4.7,Kukatpally,Hyderabad
+PVR,Fast Food,500,250,25% Off :Payeazy,25,5.0,RK Cineplex Mall,Hyderabad
+Samskruthi South Kitchen,South Indian,500,250,10% Off + 25% Off,25,4.8,Kondapur,Hyderabad
+Eagle Bar & Restaurant,"Finger Food, Cocktail Menu, Continental",1000,500,25% Off :Payeazy,25,5.0,Hotel Abode,Hyderabad
+Bakelore,Desserts,500,250,25% Off :Payeazy,25,5.0,Banjara Hills,Hyderabad
+The Sanctuary Bar and Kitchen,"Italian, North Indian, South Indian, Continental",2000,1000,20% Off + 25% Off,25,4.4,Jubilee Hills,Hyderabad
+The Glass Onion,Multicuisine,1800,900,10% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+Dune- Bar & Kitchen,"Multicuisine, Cocktail Menu",1500,750,20% Off + 25% Off,25,1.0,Jubilee Hills,Hyderabad
+The Fisherman's Wharf,Multicuisine,1500,750,15% Off + 25% Off,25,4.4,Gachibowli,Hyderabad
+Kaapiya,European,600,300,20% Off + 25% Off,25,5.0,Nanakramguda,Hyderabad
+Thrivesome,European,800,400,30% Off + 25% Off,30,5.0,"Road No. 36, Jubilee Hills",Hyderabad
+Frosty Den,"Desserts, Fast Food",500,250,35% Off + 25% Off,35,4.0,Amberpet,Hyderabad
+Connect,Multicuisine,1200,600,15% Off + 25% Off,25,1.0,Jubilee Hills,Hyderabad
+The Library Bar,"Finger Food, Cocktail Menu",3500,1750,25% Off :Payeazy,25,4.0,The Leela,Hyderabad
+President Dhaba,"Chinese, North Indian",800,400,15% Off + 25% Off,25,3.9,Madhapur,Hyderabad
+Bambai Tapri - Financial District,Multicuisine,500,250,10% Off + 25% Off,25,4.8,Nanakramguda,Hyderabad
+Hashi Izakaya,"Pan Asian, Asian, Chinese, Japanese",1000,500,10% Off + 25% Off,25,4.5,Begumpet,Hyderabad
+Tiki Shack  – Rooftop Bar,Finger Food,1800,900,10% Off + 25% Off,25,4.0,"Road No. 36, Jubilee Hills",Hyderabad
+MoMo Cafe,Multicuisine,2000,1000,30% Off + 25% Off,30,3.9,Courtyard By Marriott,Hyderabad
+Flavours From Norway @ Raen - The Chef’s Studio,Bengali,4000,2000,25% Off :Payeazy,25,4.0,The Leela,Hyderabad
+The Foodstories Cafe,European,1500,750,25% Off :Payeazy,25,4.0,Banjara Hills,Hyderabad
+Adi,Multicuisine,2000,1000,25% Off :Payeazy,25,4.0,The Leela,Hyderabad
+Samjohn's Pizza,Multicuisine,1200,600,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Rajthali,"North Indian, Rajasthani",1000,500,15% Off + 25% Off,25,4.1,Jubilee Hills,Hyderabad
+Chives,Multicuisine,1000,500,10% Off + 25% Off,25,4.8,Basheer Bagh,Hyderabad
+Naughty Kodi,South Indian,1500,750,15% Off + 25% Off,25,3.5,Jubilee Hills,Hyderabad
+Barley & Grapes Cafe Microbrewery,"Italian, Cocktail Menu",2000,1000,25% Off :Payeazy,25,4.2,Aero Plaza,Hyderabad
+Sounds & Spirits,"Finger Food, Cocktail Menu",1200,600,35% Off + 25% Off,35,3.6,"Road No. 36, Jubilee Hills",Hyderabad
+Zero,North Indian,3000,1500,25% Off :Payeazy,25,4.8,Financial District,Hyderabad
+Blue Fox,Multicuisine,800,400,30% Off + 25% Off,30,4.0,Madhapur,Hyderabad
+KGF - Krishna Godavari Flavours,Multicuisine,1500,750,10% Off + 25% Off,25,4.3,Miyapur,Hyderabad
+Cascade,Multicuisine,2400,1200,40% Off + 25% Off,40,3.7,Radisson Hyderabad Hitec,City
+The Lal Street - Bar Exchange,Multicuisine,1200,600,10% Off + 25% Off,25,3.6,Gachibowli,Hyderabad
+Pause Lounge Bar,"Finger Food, Cocktail Menu",2100,1050,50% Off + 25% Off,50,2.7,Hitech City,Hyderabad
+Red Rhino Craft Brewery and Inspired Kitchen,Multicuisine,2000,1000,10% Off + 25% Off,25,4.4,Hitech City,Hyderabad
+Theth Masala (Tellapur),Multicuisine,1600,800,15% Off + 25% Off,25,4.5,Lingampally,Hyderabad
+Teluguness,South Indian,800,400,10% Off + 25% Off,25,3.7,Madhapur,Hyderabad
+Ahoy Resto,"Italian, Continental",1700,850,25% Off :Payeazy,25,4.0,Kompally,Hyderabad
+Aroma Multi Cuisine Restaurant,Multicuisine,1200,600,35% Off + 25% Off,35,3.7,Gachibowli,Hyderabad
+Ukusa,Multicuisine,800,400,20% Off + 25% Off,25,4.8,Jubilee Hills,Hyderabad
+Ulavacharu,Multicuisine,1000,500,10% Off + 25% Off,25,4.8,Kukatpally,Hyderabad
+Taqila - The Club & Lounge,Multicuisine,1600,800,20% Off + 25% Off,25,4.2,Bachupally,Hyderabad
+Nasha Fine dine Bar,Multicuisine,1200,600,10% Off + 25% Off,25,5.0,Kompally,Hyderabad
+HIRO Pan Asian Bar & Kitchen,"Multicuisine, Asian",2000,1000,25% Off + 25% Off,25,4.9,Jubilee Hills,Hyderabad
+Ohri's Gufaa,"Mughlai, North Indian",1500,750,10% Off + 25% Off,25,4.8,Basheer Bagh,Hyderabad
+Salvia,Multicuisine,800,400,30% Off + 25% Off,30,4.8,Lingampally,Hyderabad
+Fusion Aromas Multicusine Restaurant,Multicuisine,600,300,10% Off + 25% Off,25,5.0,Serilingampalle,Hyderabad
+Firestone Grill Buffet,Multicuisine,1800,900,20% Off + 25% Off,25,3.3,Kukatpally,Hyderabad
+Tiger Lily ,"European, Pan Asian",2400,1200,10% Off + 25% Off,25,4.7,Jubilee Hills,Hyderabad
+Saffron Soul ,Multicuisine,2500,1250,30% Off + 25% Off,30,3.9,Marigold Hotel,Hyderabad
+The Hole In The Wall Cafe,European,1200,600,15% Off + 25% Off,25,2.7,Jubilee Hills,Hyderabad
+House Party - The Bar and Kitchen,Multicuisine,1200,600,20% Off + 25% Off,25,4.0,Sainikpuri,Secunderabad
+Thrive Cafe,Multicuisine,800,400,20% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Stellar Reserve,Multicuisine,1000,500,15% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+e'woke - The Vegan Cafe,"Healthy Food, Vegan",800,400,10% Off + 25% Off,25,4.7,Sainikpuri,Secunderabad
+Rü,"Pan Asian, Indian",3000,1500,20% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Altitude,"Finger Food, Cocktail Menu",1800,900,30% Off + 25% Off,30,4.8,Hyderabad Marriott Hotel & Convention Centre,Hyderabad
+Mezbaan - Authentic Vegetarian Restaurant,Multicuisine,1000,500,10% Off + 25% Off,25,4.1,S P Road,Hyderabad
+Sorrel,Multicuisine,900,450,10% Off + 25% Off,25,4.5,Madhapur,Hyderabad
+Kritunga Restaurant,Multicuisine,800,400,10% Off + 25% Off,25,4.0,Pragathinagar,Hyderabad
+The Huddle Bar & Kitchen,Multicuisine,2000,1000,20% Off + 25% Off,25,4.0,Puppalguda,Hyderabad
+Punjabi Swag,"North Indian, Chinese",800,400,20% Off + 25% Off,25,4.8,Kondapur,Hyderabad
+Airlive,Multicuisine,1500,750,50% Off + 25% Off,50,2.3,Sarath City Capital Mall,Kondapur
+Tabla Restaurant,Multicuisine,1000,500,20% Off + 25% Off,25,4.4,Kukatpally,Hyderabad
+Amritsar Haveli,Multicuisine,1500,750,10% Off + 25% Off,25,5.0,Abids,Hyderabad
+Sky100 Kitchen & Bar,Multicuisine,1200,600,30% Off + 25% Off,30,4.0,Madhapur,Hyderabad
+Utishta Pure Veg,Indian,700,350,15% Off + 25% Off,25,4.9,Jubilee Hills,Hyderabad
+Pandaga ,South Indian,1000,500,15% Off + 25% Off,25,3.8,Kondapur,Hyderabad
+US Pizza,Pizza,800,400,35% Off + 25% Off,35,3.7,Amberpet,Hyderabad
+Taco Bell,"Mexican, Tex-Mex",550,275,25% Off :Payeazy,25,1.0,Panjagutta,Hyderabad
+The Majlis Culture Cuisine,Arabian,1200,600,10% Off + 25% Off,25,4.4,"Khayyam Nagar, Hyderabad",Hyderabad
+Black Pearl ,Multicuisine,800,400,30% Off + 25% Off,30,4.0,Hotel Central Park,Hyderabad
+Signature Grills,Indian,1400,700,25% Off :Payeazy,25,4.2,"Thrill City, Necklace",Road
+Ta.Ma.Sha Veg Cafe ,Multicuisine,800,400,15% Off + 25% Off,25,4.0,Abids,Hyderabad
+The Bowl Rise,South Indian,800,400,35% Off + 25% Off,35,4.0,Sunrise Business Hotel,Hyderabad
+The Glass House,Progressive Indian Cuisine,1500,750,25% Off + 25% Off,25,4.2,"Road No. 45, Jubilee Hills",Hyderabad
+Hoy Punjab,North Indian,1200,600,25% Off + 25% Off,25,4.3,Gachibowli,Hyderabad
+TG's The Oriental Grill,"Japanese, oriental",2000,1000,30% Off + 25% Off,30,4.0,Hyatt Hyderabad,Gachibowli
+Lakshmi's United Kitchen,Multicuisine,1000,500,25% Off + 25% Off,25,3.9,Madhapur,Hyderabad
+Milano Pizza,Italian,1000,500,10% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+Amoroso,Multicuisine,1000,500,30% Off + 25% Off,30,4.0,Jubilee Hills,Hyderabad
+Native Katha,Multicuisine,600,300,30% Off + 25% Off,30,4.4,Madhapur,Hyderabad
+Thinespo,"Italian, Multicuisine",1200,600,10% Off + 25% Off,25,4.6,Kompally,Hyderabad
+La Milano Pizzeria,Italian,600,300,25% Off + 25% Off,25,5.0,Himayath Nagar,Hyderabad
+Yummy Bee,Cafe,1500,750,20% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Mandi King Delite Arabian Restaurant,"Chinese, Arabian",600,300,10% Off + 25% Off,25,5.0,Himayath Nagar,Hyderabad
+Devara Multicuisine Restaurant,Multicuisine,500,250,20% Off + 25% Off,25,4.0,Tolichowki,Hyderabad
+Yummy Bee Kondapur,Cafe,1000,500,10% Off + 25% Off,25,4.5,Kondapur,Hyderabad
+Bidri - Hyderabad Marriott Hotel & Convention Centre,North Indian,1800,900,25% Off + 25% Off,25,4.3,Hyderabad Marriott Hotel & Convention Centre,Hyderabad
+DASARA,South Indian,1200,600,10% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Kritunga - The Palegar's Cuisine,"Chinese, Indian",900,450,25% Off + 25% Off,25,3.9,Kondapur,Hyderabad
+ILLU The Restaurant,South Indian,1200,600,15% Off + 25% Off,25,4.8,Jubilee Hills,Hyderabad
+Terrai - Neo Telangana Kitchen & Bar,Regional Indian,2000,1000,10% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Good Vibes Only Cafe,"Italian, Fast Food",1000,500,10% Off + 25% Off,25,4.4,Manikonda,Hyderabad
+La Vie En Rose Cafe,European,800,400,10% Off + 25% Off,25,4.8,Gachibowli,Hyderabad
+Chandigarh Dhaba,North Indian,800,400,10% Off + 25% Off,25,4.5,Kondapur,Hyderabad
+Rangularatnam Telugu Kitchen,South Indian,1200,600,40% Off + 25% Off,40,2.0,Jubilee Hills,Hyderabad
+Vaikuntapuram Restaurant,Multicuisine,1000,500,10% Off + 25% Off,25,4.2,Kondapur,Hyderabad
+Zindagi - Sky Bar & Kitchen,Multicuisine,2100,1050,25% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+DEE The Bar,Multicuisine,1600,800,20% Off + 25% Off,25,5.0,Secunderabad,Hyderabad
+The Mandi Nation,Arabian,800,400,25% Off + 25% Off,25,3.6,Balanagar,Hyderabad
+Toast & Tonic Lounge,Multicuisine,1200,600,50% Off + 25% Off,50,3.0,Manikonda,Hyderabad
+Noho,"Pan Asian, Asian",3000,1500,10% Off + 25% Off,25,4.3,"Road No. 45, Jubilee Hills",Hyderabad
+WAH MANDI,Mandi,1200,600,10% Off + 25% Off,25,4.2,Kondapur,Hyderabad
+The Oriental Blossom,Chinese,2000,1000,40% Off + 25% Off,40,3.9,Radisson Hyderabad Hitec,City
+Rebel & Rye Bar & Kitchen,Multicuisine,1600,800,40% Off + 25% Off,40,4.0,Film Nagar,Hyderabad
+Abana Club & Kitchen,Multicuisine,1500,750,30% Off + 25% Off,30,3.5,Gachibowli,Hyderabad
+Mainland China,Chinese,1600,800,15% Off + 25% Off,25,4.4,Madhapur,Hyderabad
+Renao Cafe & Bistro,Multicuisine,1200,600,25% Off + 25% Off,25,3.9,Madhapur,Hyderabad
+Mirell - The Vegetarian Voyage,Multicuisine,1000,500,10% Off + 25% Off,25,4.6,"Road No. 45, Jubilee Hills",Hyderabad
+Citrus Cafe,"Indian, European",2000,1000,50% Off + 25% Off,50,4.2,Lemon Tree Premier,Hyderabad
+Mamanori,"Pan Asian, Asian",1800,900,35% Off + 25% Off,35,4.5,Ellaa Residence,Hyderabad
+House Of Chefs,Multicuisine,800,400,20% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Tamasha - Restro Cafe,"Korean, Thai, Asian, Continental",800,400,30% Off + 25% Off,30,4.3,Jubilee Hills,Hyderabad
+Abids Bistro ,Multicuisine,1200,600,30% Off + 25% Off,30,4.4,Royalton Hotel,Hyderabad
+Brewbite Bistro ,Multicuisine,1000,500,35% Off + 25% Off,35,1.0,Madhapur,Hyderabad
+Delicia - Multicuisine Restaurant,Multicuisine,600,300,40% Off + 25% Off,40,4.3,Gachibowli,Hyderabad
+The Golden Barrel Bar N Pub,Multicuisine,1000,500,30% Off + 25% Off,30,4.0,Bachupally,Hyderabad
+Soul Of South,South Indian,800,400,10% Off + 25% Off,25,5.0,Nanakramguda,Hyderabad
+Tales of Telugu,South Indian,1400,700,20% Off + 25% Off,25,3.5,Madhapur,Hyderabad
+Naatu Kitchen and Bar,South Indian,1200,600,10% Off + 25% Off,25,4.3,"Road No. 36, Jubilee Hills",Hyderabad
+Deccan Kitchen,"Hyderabadi, Mughlai",1500,750,25% Off + 25% Off,25,4.0,Film Nagar,Hyderabad
+The Kadai Story,Multicuisine,500,250,10% Off + 25% Off,25,2.5,Nagole,Hyderabad
+Fursat Kitchen & Bar,Multicuisine,1500,750,15% Off + 25% Off,25,3.7,Madhapur,Hyderabad
+Trio Bistro,Cafe,700,350,10% Off + 25% Off,25,5.0,Kondapur,Hyderabad
+Amnesia Sky Bar,Multicuisine,1500,750,15% Off + 25% Off,25,3.8,"Inorbit Mall, Hitech",City
+Maharaja Express Train Restaurant,Multicuisine,1200,600,10% Off + 25% Off,25,4.7,Secunderabad,Hyderabad
+Chubby Cho,"Pan Asian, Asian",1200,600,10% Off + 25% Off,25,4.5,"Road No. 45, Jubilee Hills",Hyderabad
+Robo Headquaters,Multicuisine,899,449,25% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Kisscoff Cafe,European,2000,1000,25% Off :Payeazy,25,4.0,Film Nagar,Hyderabad
+Foo Inorbit,"Asian, Chinese",2000,1000,Cover Charge + 25% Off,25,4.8,Inorbit Mall Cyberabad,Madhapur
+Post Card Global Tapas Bar,Tapas,1400,700,20% Off + 25% Off,25,4.6,Madhapur,Hyderabad
+7 Sisters,"Himalyan, Pan Asian",600,300,30% Off + 25% Off,30,4.0,Prism Mall,Gachibowli
+TuGo - Turpu Godavari,Multicuisine,1200,600,15% Off + 25% Off,25,4.8,Jubilee Hills,Hyderabad
+Vivaha Bhojanambu,Indian,1400,700,10% Off + 25% Off,25,4.2,Jubilee Hills,Hyderabad
+KOKO Hyderabad,"Chinese, Pan Asian, Asian",3500,1750,Cover Charge + 25% Off,25,4.8,Hitech City,Hyderabad
+Permit To Grill,Continental,1800,900,30% Off + 25% Off,30,4.0,Novotel Hyderabad Convention,Centre
+The Funnel Hill Creamery,"Cafe, Bakery",1300,650,10% Off + 25% Off,25,4.2,Begumpet,Hyderabad
+When in Rome : Authentic Italian Streetfood,"European, Italian",800,400,15% Off + 25% Off,25,4.8,Gachibowli,Hyderabad
+Chama Gaucha,Multicuisine,2200,1100,40% Off + 25% Off,40,4.1,Radisson Hyderabad Hitec,City
+Istham Kitchen,South Indian,1200,600,20% Off + 25% Off,25,4.1,Gachibowli,Hyderabad
+Dhaba - Estd 1986 Delhi,North Indian,1100,550,20% Off + 25% Off,25,4.3,Kondapur,Hyderabad
+Veto Bar & Kitchen,"Cocktail Menu, Multicuisine",1800,900,30% Off + 25% Off,30,5.0,Kondapur,Hyderabad
+Ala Jubilee Lo - Telugu Kitchen & Bar,Finger Food,1800,900,10% Off + 25% Off,25,4.0,"Road No. 36, Jubilee Hills",Hyderabad
+3 Bears Cafe ,Multicuisine,1000,500,15% Off + 25% Off,25,5.0,Financial District,Hyderabad
+Minerva Coffee Shop,Multicuisine,1200,600,30% Off + 25% Off,30,3.8,Huda Techno Enclave,Hyderabad
+Little Bittle ,"Fast Food, Continental",800,400,25% Off + 25% Off,25,4.5,"Thrill City, Necklace",Road
+Patangg - Vegetarian Delight,Multicuisine,1000,500,25% Off :Payeazy,25,4.7,Kacheguda,Hyderabad
+Oh! Calcutta,Multicuisine,1600,800,10% Off + 25% Off,25,4.2,Madhapur,Hyderabad
+Adhirat Pure Veg,Multicuisine,1000,500,10% Off + 25% Off,25,3.0,Madhapur,Hyderabad
+Cafe Delhi Heights,Multicuisine,1000,500,20% Off + 25% Off,25,4.1,Inorbit Mall Cyberabad,Madhapur
+ANTHM,Multicuisine,1900,950,20% Off + 25% Off,25,3.0,Financial District,Hyderabad
+The Manohar Coffee Shop,Multicuisine,1200,600,10% Off + 25% Off,25,4.0,The Manohar,Hyderabad
+The Airawat Kitchen,"Chinese, South Indian",800,400,20% Off + 25% Off,25,5.0,Hafeezpet,Hyderabad
+Coal Spark,Multicuisine,800,400,10% Off + 25% Off,25,3.3,Gachibowli,Hyderabad
+Komatose,Multicuisine,1500,750,15% Off + 25% Off,25,4.2,Fairfield by Marriott,Hyderabad
+Aroma Of Dakshin,Multicuisine,1600,800,10% Off + 25% Off,25,4.7,Nanakramguda,Hyderabad
+Co Canada Kitchens,Multicuisine,1200,600,20% Off + 25% Off,25,4.8,Gachibowli,Hyderabad
+Simply South,South Indian,1200,600,10% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+PA PA YA,Multicuisine,2000,1000,20% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Scotchman,Multicuisine,1000,500,25% Off + 25% Off,25,4.0,Royalton Hotel,Hyderabad
+Hotel Mayukha Jungle Theme Restaurant,Multicuisine,1000,500,10% Off + 25% Off,25,3.5,Kukatpally,Hyderabad
+Thyme & Whisk,Multicuisine,1400,700,10% Off + 25% Off,25,4.4,Jubilee Hills,Hyderabad
+Pavilion,Multicuisine,800,400,25% Off + 25% Off,25,3.8,The Peerless,Inn
+Globe Buffetio ,Multicuisine,1800,900,15% Off + 25% Off,25,3.4,Nanakramguda,Hyderabad
+De Chocolatier,"Bakery, European",500,250,40% Off + 25% Off,40,5.0,Gachibowli,Hyderabad
+Trinca Cafe & Bistro,Indian,1000,500,10% Off + 25% Off,25,5.0,Shankarpally,Hyderabad
+ Antervedi Telugu Kitchen And Bar,South Indian,1400,700,30% Off + 25% Off,30,4.0,Kondapur,Hyderabad
+Ahwana Bar & Kitchen,South Indian,1400,700,15% Off + 25% Off,25,4.5,Kokapet,Hyderabad
+KNOX Club & Kitchen.,Multicuisine,1500,750,50% Off + 25% Off,50,4.0,"Road No. 36, Jubilee Hills",Hyderabad
+Butterfly High,Multicuisine,2000,1000,25% Off :Payeazy,25,5.0,Hitech City,Hyderabad
+Pandem Punju,"Mughlai, North Indian, South Indian",800,400,30% Off + 25% Off,30,4.0,Jubilee Hills,Hyderabad
+Nidhi Ki Rasoi Se,North Indian,1000,500,10% Off + 25% Off,25,4.3,Nallagandla,Hyderabad
+Zaatar Arabian Mandi Restaurant NH ,"Chinese, Mandi",800,400,10% Off + 25% Off,25,4.5,Vanasthalipuram,Hyderabad
+Whistling Brew,Multicuisine,1000,500,25% Off :Payeazy,25,4.9,Jeedimetla,Hyderabad
+Jathara,South Indian,1000,500,15% Off + 25% Off,25,4.4,Jubilee Hills,Hyderabad
+Anthara Cafe,Continental,800,400,20% Off + 25% Off,25,4.0,Nizampet,Hyderabad
+Amora Tapas,"Multicuisine, Continental",1200,600,20% Off + 25% Off,25,4.0,Ellaa Residence,Hyderabad
+Beyond Sushi,"Sushi, Asian",1000,500,15% Off + 25% Off,25,5.0,Khajaguda,Hyderabad
+1989 Milkshakes,Milkshakes,500,250,30% Off + 25% Off,30,5.0,Madhapur,Hyderabad
+Naidu Gari Kunda Biryani,Multicuisine,700,350,10% Off + 25% Off,25,4.5,S R Nagar,Hyderabad
+Moai Kitchen,Multicuisine,1800,900,25% Off :Payeazy,25,4.2,Financial District,Hyderabad
+1989 Pizza & Thick Shake's,"Milkshakes, Pizza",500,250,30% Off + 25% Off,30,4.7,Madhapur,Hyderabad
+Kake Di Hatti,North Indian,2000,1000,15% Off + 25% Off,25,3.5,Chanda Nagar,Hyderabad
+Terra Cafe,Multicuisine,1100,550,20% Off + 25% Off,25,3.3,Jubilee Hills,Hyderabad
+ Mythus Brewpub & Kitchen,Multicuisine,1500,750,10% Off + 25% Off,25,5.0,Narsingi,Hyderabad
+Wow! Chicken,Fast Food,300,150,15% Off + 25% Off,25,4.5,Forum Sujana Mall,Kukatpally
+RAGE Club & Kitchen,Multicuisine,800,400,50% Off + 25% Off,50,4.0,Jubilee Hills,Hyderabad
+Peshawri,North West Frontier,3000,1500,10% Off + 25% Off,25,4.6,ITC Kohenur,Hyderabad
+Sabr Lounge & Bar,"Cocktail Menu, Finger Food",1500,750,25% Off + 25% Off,25,4.0,Kokapet,Hyderabad
+Narthanasala Restaurant,Multicuisine,1000,500,20% Off + 25% Off,25,4.5,Kondapur,Hyderabad
+Bezawada Junction,Indian,1000,500,15% Off + 25% Off,25,4.2,Kondapur,Hyderabad
+Kalingapatnam Restaurant,Multicuisine,800,400,25% Off :Payeazy,25,1.0,Manikonda,Hyderabad
+Special ,"South Indian, Biryani",1000,500,25% Off :Payeazy,25,5.0,Kondapur,Hyderabad
+Dakshin Kitchen,Multicuisine,600,300,15% Off + 25% Off,25,4.0,Hotel La Premier,Hyderabad
+Anthe Kitchen,Multicuisine,1200,600,15% Off + 25% Off,25,3.3,Hitech City,Hyderabad
+Jamming Goat .8,Multicuisine,1200,600,10% Off + 25% Off,25,2.8,Kokapet,Hyderabad
+Mekong,"Chinese, Pan Asian, Asian",3500,1750,10% Off + 25% Off,25,5.0,Hitech City,Hyderabad
+HABIBI JAIL MANDI,"Arabian, Mandi",600,300,10% Off + 25% Off,25,5.0,Manikonda,Hyderabad
+East & West Kitchen,Multicuisine,350,175,25% Off :Payeazy,25,5.0,Kukatpally,Hyderabad
+Plan B,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Begumpet,Hyderabad
+Prego,"Italian, Cocktail Menu",3500,1750,25% Off + 25% Off,25,4.5,The Westin Hyderabad,Mindspace
+Barkaas Indo-Arabic Restaurant,"Arabian, North Indian",1000,500,20% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+Smaaash C2H5OH Bowling Sports Bar,Multicuisine,1300,650,15% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Raja Bhojanam - An Authentic Telugu Restaurant,Indian,1000,500,25% Off + 25% Off,25,3.8,Gachibowli,Hyderabad
+Theeram Kitchen,Multicuisine,800,400,20% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Simhapuri,Multicuisine,1200,600,10% Off + 25% Off,25,4.1,Hitech City,Hyderabad
+Bagara 7 Restaurant,Multicuisine,900,450,10% Off + 25% Off,25,1.0,Secunderabad,Hyderabad
+The Rabbit Hole,Multicuisine,1500,750,40% Off + 25% Off,40,5.0,Kokapet,Hyderabad
+1989 Burger,Burgers,500,250,30% Off + 25% Off,30,5.0,Uppal,Hyderabad
+Alehouse - Kondapur,Multicuisine,1600,800,10% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+J Brews Cafe,Continental,500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Cuisinekraft,Multicuisine,1000,500,20% Off + 25% Off,25,4.4,Gachibowli,Hyderabad
+Teluguthanam,Indian,500,250,25% Off :Payeazy,25,5.0,Moula Ali,Secunderabad
+Punjabi's Swag,"North Indian, Chinese",600,300,20% Off + 25% Off,25,5.0,Secunderabad,Hyderabad
+PR Biryani,Multicuisine,650,325,10% Off + 25% Off,25,4.8,Habsiguda,Hyderabad
+Ala Dakshinapuramlo,South Indian,600,300,10% Off + 25% Off,25,4.2,Hitech City,Hyderabad
+En Lukx Lounge And Sky Bar,Multicuisine,1200,600,40% Off + 25% Off,40,4.3,Madhapur,Hyderabad
+Zyng ,Multicuisine,2000,1000,20% Off + 25% Off,25,4.4,Radisson Hyderabad Hitec,City
+Ichata kitchen And Bar,"South Indian, Cocktail Menu",1200,600,20% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Bahar Cafe,"Indian, Chinese",950,475,10% Off + 25% Off,25,4.2,Hafeezpet,Hyderabad
+The Veg Venjan,Multicuisine,1500,750,25% Off :Payeazy,25,3.9,Himayath Nagar,Hyderabad
+Ouvra Telugu Kitchen,South Indian,1000,500,15% Off + 25% Off,25,4.0,Khajaguda,Hyderabad
+1989 Pizza & Thickshakes,"Beverages, Pizza",400,200,30% Off + 25% Off,30,4.0,Sainikpuri,Secunderabad
+The Bake Factory,Multicuisine,1000,500,10% Off + 25% Off,25,5.0,Nallagandla,Hyderabad
+Alanati,Multicuisine,1200,600,25% Off :Payeazy,25,4.0,Puppalguda,Hyderabad
+Oxymorons,Finger Food,2000,1000,25% Off :Payeazy,25,4.0,Begumpet,Hyderabad
+Carpe Diem,Continental,2000,1000,15% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+Tonic & Tunes- Terrace Lounge,Multicuisine,1600,800,20% Off + 25% Off,25,4.5,Gachibowli,Hyderabad
+Qube Cafe,Multicuisine,1200,600,25% Off + 25% Off,25,3.3,Hotel Siesta,Hyderabad
+Mrs. Mage,"oriental, Asian",3000,1500,25% Off + 25% Off,25,4.4,Hyatt Hyderabad,Gachibowli
+Bambai Tapri - Lingampally,Multicuisine,500,250,10% Off + 25% Off,25,4.7,Nallagandla,Hyderabad
+Full To Brim,Multicuisine,1500,750,10% Off + 25% Off,25,4.7,Gachibowli,Hyderabad
+Taranga Restaurant,Multicuisine,1100,550,10% Off + 25% Off,25,4.2,Miyapur,Hyderabad
+Ahwana Telugu Kitchen,South Indian,600,300,15% Off + 25% Off,25,4.5,Hitech City,Hyderabad
+Flames & Pots,Indian,400,200,10% Off + 25% Off,25,4.0,Nallagandla,Hyderabad
+Krema Cafe,"European, Italian",1000,500,10% Off + 25% Off,25,4.0,Lingampally,Hyderabad
+Toscano,Italian,1800,900,10% Off + 25% Off,25,4.7,Hitech City,Hyderabad
+O'Rica ,Multicuisine,1200,600,25% Off :Payeazy,25,4.4,Alwal,Secunderabad
+Haze Kitchen And Bar,Multicuisine,1800,900,30% Off + 25% Off,30,5.0,Gachibowli,Hyderabad
+Moghuls Paradiez Restaurant,Multicuisine,800,400,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Republic Of Noodles ,"Thai, Pan Asian, Malaysian ",1700,850,30% Off + 25% Off,30,4.6,Lemon Tree Premier,Hyderabad
+OTC - Old Tree Cafe,Cafe,1000,500,10% Off + 25% Off,25,4.7,Kompally,Hyderabad
+Buffalo Wild Wings,American,2000,1000,25% Off :Payeazy,25,2.7,Novotel Hyderabad,Airport
+Over The Flow,South Indian,1000,500,15% Off + 25% Off,25,5.0,Hafeezpet,Hyderabad
+Toscano,Italian,1800,900,15% Off + 25% Off,25,2.0,Gachibowli,Hyderabad
+M3 Mayukha Mughal Mandi,"Arabian, Mughlai",700,350,10% Off + 25% Off,25,3.7,Gandipet,Hyderabad
+Mandi Bistro,Arabian,700,350,25% Off :Payeazy,25,3.8,Madhapur,Hyderabad
+SALT Indian Restaurant,Indian,1800,900,15% Off + 25% Off,25,5.0,Nanakramguda,Hyderabad
+Italia,Multicuisine,2000,1000,20% Off + 25% Off,25,5.0,Ellaa Hotels,Hyderabad
+Kebab Theatre,Indian,1400,700,30% Off + 25% Off,30,4.5,Lemon Tree Premier,Hyderabad
+Asli,Multicuisine,2500,1250,25% Off :Payeazy,25,5.0,Jubilee Hills,Hyderabad
+The Dome Cafe,Multicuisine,600,300,20% Off + 25% Off,25,4.8,Gachibowli,Hyderabad
+Lattitude,"Multicuisine, Cocktail Menu",1800,900,30% Off + 25% Off,30,4.5,Le Méridien,Hyderabad
+Flavours,Multicuisine,1100,550,15% Off + 25% Off,25,4.0,Hotel Jubilee Ridge,Hyderabad
+Devamrutham,"Indian, South Indian",800,400,15% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Ricco Cafe & Restaurant,Multicuisine,1200,600,30% Off + 25% Off,30,4.2,Jubilee Hills,Hyderabad
+Foodism By Ohri's,"European, Indian",800,400,15% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Via Milano,"European, Italian",1300,650,15% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Ishtaa - Vegetarian Cuisine Restaurant,Multicuisine,1000,500,25% Off :Payeazy,25,4.5,Basheer Bagh,Hyderabad
+Sakura - A Far Eastern Kitchen,"Chinese, Pan Asian, Asian",1800,900,15% Off + 25% Off,25,3.8,"Road No. 36, Jubilee Hills",Hyderabad
+PizzaExpress,"Italian, Pizza",1700,850,15% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Mist - The Poolside Kitchen,"oriental, European",2500,1250,20% Off + 25% Off,25,3.7,The Golkonda Resort,Hyderabad
+Cava | Kebabs & Curries,"North Indian, South Indian",1200,600,30% Off + 25% Off,30,4.0,Begumpet,Hyderabad
+Daily Treats,"American, European",3000,1500,25% Off + 25% Off,25,5.0,The Westin Hyderabad,Mindspace
+10 Downing Street Gachibowli,Multicuisine,2500,1250,25% Off :Payeazy,25,4.2,Gachibowli,Hyderabad
+Next Round Bar & Kitchen,"Multicuisine, Cocktail Menu",1500,750,30% Off + 25% Off,30,4.0,Nallagandla,Hyderabad
+Hyderabad Spicy Kitchen & Bar,Multicuisine,800,400,10% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+Lush Cafe By The Lake,European,700,350,25% Off :Payeazy,25,4.6,Madhapur,Hyderabad
+Jade,Pan Asian,1500,750,25% Off + 25% Off,25,4.7,Le Méridien,Hyderabad
+FondOf - Coffee Lounge,European,1200,600,15% Off + 25% Off,25,4.7,Kothaguda,Hyderabad
+AnTeRa Courtyard,South Indian,1200,600,10% Off + 25% Off,25,4.3,Nanakramguda,Hyderabad
+Vetro,Multicuisine,1800,900,20% Off + 25% Off,25,3.8,The Golkonda Resort,Hyderabad
+One Bite,Multicuisine,500,250,25% Off + 25% Off,25,5.0,Kompally,Hyderabad
+Kefi,Multicuisine,1000,500,10% Off + 25% Off,25,3.7,L B Nagar,Hyderabad
+Tevar - The Progressive Indian Kitchen & Bar,Modern Indian,4000,2000,25% Off :Payeazy,25,4.1,Hitech City,Hyderabad
+Firewater Neo Bar & Kitchen,Multicuisine,1500,750,20% Off + 25% Off,25,4.5,Nanakramguda,Hyderabad
+Firefly Club & Social Room,"Multicuisine, Cocktail Menu",2800,1400,35% Off + 25% Off,35,4.0,Kondapur,Hyderabad
+Et - Si,"Chinese, European",1200,600,25% Off :Payeazy,25,4.7,Jubilee Hills,Hyderabad
+Toast & Tonic Sky Bar,Multicuisine,1200,600,45% Off + 25% Off,45,4.3,Manikonda,Hyderabad
+Shiso Cafe & Lounge,"Desserts, European",800,400,15% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Shree Tatva Veg Restaurant,Indian,500,250,15% Off + 25% Off,25,4.1,Raji Reddy Nagar,Hyderabad
+Noya,"Finger Food, Cocktail Menu",2800,1400,20% Off + 25% Off,25,5.0,Hotel Avasa,Hyderabad
+Dasara,Multicuisine,1200,600,10% Off + 25% Off,25,2.8,Uppal,Hyderabad
+The Beer Cartel,Multicuisine,2000,1000,25% Off :Payeazy,25,4.4,Hitech City,Hyderabad
+Locale Cafe & Bistro,Multicuisine,1300,650,20% Off + 25% Off,25,5.0,Madhapur,Hyderabad
+Yi Jing,Chinese,3000,1500,10% Off + 25% Off,25,4.8,ITC Kohenur,Hyderabad
+Raasta,"Multicuisine, Continental",1200,600,15% Off + 25% Off,25,4.5,Hitech City,Hyderabad
+IRA Kitchen & Bar,Multicuisine,1400,700,10% Off + 25% Off,25,5.0,Sangareddy,Hyderabad
+Dumpukht Begum's,Awadhi,3000,1500,10% Off + 25% Off,25,4.6,ITC Kohenur,Hyderabad
+Fresco's Pizza,"Italian, Japanese",600,300,25% Off + 25% Off,25,4.0,Kandi,Hyderabad
+Urban Munchies,Fast Food,500,250,35% Off + 25% Off,35,4.0,Amberpet,Hyderabad
+Eat Chat & More,"Chinese, Indian",450,225,25% Off + 25% Off,25,4.0,Hafeezpet,Hyderabad
+Tuscany,Italian,4000,2000,25% Off + 25% Off,25,4.8,Trident,Hyderabad
+Whisky Samba,"Indian, Japanese",2000,1000,25% Off :Payeazy,25,4.6,Madhapur,Hyderabad
+Kavyam the telugu table,"South Indian, Multicuisine",1200,600,10% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+Tecora Multi-Cuisine Restaurant,Multicuisine,1200,600,15% Off + 25% Off,25,4.5,Nanakramguda,Hyderabad
+Frat House,Multicuisine,1500,750,40% Off + 25% Off,40,3.3,Gachibowli,Hyderabad
+Stoic Brew,European,800,400,30% Off + 25% Off,30,4.0,Serilingampalle,Hyderabad
+N-Owl Club & Kitchen,Multicuisine,1000,500,10% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Last Saturday,"Multicuisine, Cocktail Menu",1800,900,25% Off :Payeazy,25,5.0,Jubilee Hills,Hyderabad
+HODD'S Cocktail Bar,Multicuisine,1800,900,25% Off + 25% Off,25,5.0,Hyatt Hyderabad,Gachibowli
+Kush Mandi,Multicuisine,800,400,15% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Mazzo,Multicuisine,3000,1500,20% Off + 25% Off,25,3.7,Gachibowli,Hyderabad
+Mix,Finger Food,1400,700,25% Off + 25% Off,25,3.0,The Westin Hyderabad,Mindspace
+ABC Kitchens - Authentic Bhimavaram Cuisine,South Indian,750,375,25% Off :Payeazy,25,4.7,Nallagandla,Hyderabad
+Nippon Kitsune,European,1195,597,15% Off + 25% Off,25,5.0,Madhapur,Hyderabad
+Chiraan Fort,Multicuisine,1600,800,20% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+United Kitchens of India,Multicuisine,1000,500,25% Off :Payeazy,25,4.4,Karkhana,Secunderabad
+Tasca Bar & Kitchen,Multicuisine,2500,1250,10% Off + 25% Off,25,4.4,Gandipet,Hyderabad
+Ironhill (Madhapur),Multicuisine,400,200,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+ATG - Across The Globe Restaurant ,Multicuisine,1000,500,15% Off + 25% Off,25,4.2,Nallagandla,Hyderabad
+"Forest, Arabian Mandi House ",Mandi,500,250,Free Appetizer + 25% Off,25,4.9,Saroor Nagar,Hyderabad
+The Bar,Finger Food,2200,1100,15% Off + 25% Off,25,4.4,Novotel Hyderabad Convention,Centre
+MK Warehouse,Multicuisine,1200,600,50% Off + 25% Off,50,4.0,"Road No. 36, Jubilee Hills",Hyderabad
+M3 Mayukha Mughal Mandi Restaurant,Arabian,800,400,15% Off + 25% Off,25,4.0,Madeenaguda,Hyderabad
+Kritunga Restaurant,South Indian,1200,600,15% Off + 25% Off,25,1.0,Madhapur,Hyderabad
+Cafe 1st Story,Multicuisine,2000,1000,15% Off + 25% Off,25,4.3,Fairfield by Marriott,Hyderabad
+Skyline,Multicuisine,1600,800,50% Off + 25% Off,50,4.0,Financial District,Hyderabad
+United Telugu Kitchens,South Indian,1300,650,25% Off :Payeazy,25,4.1,Chanda Nagar,Hyderabad
+10 Downing Street Begumpet,Multicuisine,2500,1250,25% Off :Payeazy,25,4.5,Begumpet,Hyderabad
+Tansen,"North Indian, Seafood",3000,1500,25% Off :Payeazy,25,4.0,Financial District,Hyderabad
+Danish Cafe & Bakery,"European, Coffee",500,250,15% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Umm Uttapam,South Indian,500,250,20% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Malibu - Cocktail Bar & Kitchen,Finger Food,1500,750,25% Off :Payeazy,25,4.3,Kompally,Hyderabad
+Arabian Corner,Arabian,900,450,10% Off + 25% Off,25,4.5,Gachibowli,Hyderabad
+Jamun,Regional Indian,1800,900,15% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+Xero Degrees,Cafe,800,400,30% Off + 25% Off,30,4.0,Hitech City,Hyderabad
+Cosmos Cafe & Gaming,Multicuisine,800,400,10% Off + 25% Off,25,3.7,Kothapet,Hyderabad
+MudBrick - Kitchen & Bar,Fusion,1200,600,10% Off + 25% Off,25,4.5,Jubilee Hills,Hyderabad
+White Ridge Kitchen,South Indian,600,300,30% Off + 25% Off,30,4.0,White Ridge Premium Hotel - Hitec City,Hyderabad
+The Night Bird Bar & Cafe,Multicuisine,1500,750,25% Off + 25% Off,25,3.9,Kondapur,Hyderabad
+WoodinVille Bistro,Multicuisine,1000,500,15% Off + 25% Off,25,5.0,Gandipet,Hyderabad
+World of Tortillas ,"Mexican, European",600,300,15% Off + 25% Off,25,5.0,Kondapur,Hyderabad
+Colours of Spirit,Cafe,800,400,15% Off + 25% Off,25,5.0,L B Nagar,Hyderabad
+Bilwaa,"North Indian, Multicuisine, Chinese",1000,500,10% Off + 25% Off,25,5.0,"Road No. 36, Jubilee Hills",Hyderabad
+Ambaram The Rooftop Kitchen,Multicuisine,1000,500,25% Off + 25% Off,25,2.5,Secunderabad,Hyderabad
+Qosa ,Multicuisine,2000,1000,25% Off :Payeazy,25,5.0,The Golkonda Resort,Hyderabad
+Peanuts Bar,Multicuisine,1500,750,25% Off :Payeazy,25,4.5,Madhapur,Hyderabad
+Grand Santosh Family Dhaba,Multicuisine,800,400,25% Off :Payeazy,25,5.0,Kukatpally,Hyderabad
+ The Cafe Indori,"Finger Food, Indian, Continental",500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Yummy Bee Kukatpally,Cafe,1000,500,10% Off + 25% Off,25,3.0,Kukatpally,Hyderabad
+Maa Athidi Military Hotel,Multicuisine,850,425,10% Off + 25% Off,25,4.0,Puppalguda,Hyderabad
+Blck Artisanal Brews & Bakehouse,Continental,1000,500,10% Off + 25% Off,25,4.0,Film Nagar,Hyderabad
+Caffe Jubilee,"Italian, Chinese",1200,600,10% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Golden Spoon Cafe & Lounge,"Cafe, European",300,150,10% Off + 25% Off,25,4.0,Manikonda,Hyderabad
+Hotel Nakshatra Inn,"Indian, Chinese",800,400,15% Off + 25% Off,25,4.0,Kothapet,Hyderabad
+Skyhy Live,Finger Food,1800,900,10% Off + 25% Off,25,3.5,Gachibowli,Hyderabad
+Elite Kitchen,Multicuisine,500,250,10% Off + 25% Off,25,3.7,Serilingampalle,Hyderabad
+Rocks,"Finger Food, Cocktail Menu",2000,1000,15% Off + 25% Off,25,4.3,Ellaa Hotels,Hyderabad
+Amaravati Amigos,Multicuisine,700,350,10% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Salley By Shott ,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Dashami Kitchen & Bar,Multicuisine,1800,900,30% Off + 25% Off,30,4.0,Kokapet,Hyderabad
+Kebab Pavilion ,Multicuisine,3000,1500,15% Off + 25% Off,25,4.0,Ellaa Hotels,Hyderabad
+Green Bucket Biryani,Biryani,500,250,20% Off + 25% Off,25,4.0,Nagole,Hyderabad
+Dark Stone,Multicuisine,600,300,20% Off + 25% Off,25,4.0,Medipally,Hyderabad
+ATG - Across The Globe Cafe,Continental,500,250,15% Off + 25% Off,25,4.0,Lingampally,Hyderabad
+Food Villa,Multicuisine,400,200,20% Off + 25% Off,25,4.0,Kothapet,Hyderabad
+Samprada Authentic Kitchen & Bar,Multicuisine,1200,600,15% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+The Sahib's,Multicuisine,700,350,15% Off + 25% Off,25,4.0,Sainikpuri,Secunderabad
+Tree House	,Multicuisine,800,400,15% Off + 25% Off,25,3.7,L B Nagar,Hyderabad
+Hotel Simhapuri Deluxe,Multicuisine,1200,600,10% Off + 25% Off,25,4.8,Madhapur,Hyderabad
+Queens & Beans,Continental,1100,550,25% Off + 25% Off,25,3.7,Gachibowli,Hyderabad
+Bahar Biryani Cafe,"Chinese, Indian",400,200,15% Off + 25% Off,25,4.0,L B Nagar,Hyderabad
+Chickpet Donne Biryani House Kokapet,Multicuisine,500,250,30% Off + 25% Off,30,4.0,Gandipet,Hyderabad
+Spicy Biryani Vibes,Multicuisine,600,300,10% Off + 25% Off,25,3.0,Madhapur,Hyderabad
+Babai Hotel,South Indian,600,300,10% Off + 25% Off,25,3.0,Himayath Nagar,Hyderabad
+Save The Tigers Bar & Kitchen,Multicuisine,1500,750,30% Off + 25% Off,30,2.8,Kukatpally,Hyderabad
+Alchemy ,Multicuisine,2500,1250,15% Off + 25% Off,25,3.4,Ellaa Hotels,Hyderabad
+Peshawar,Multicuisine,600,300,25% Off :Payeazy,25,4.7,Malakpet,Hyderabad
+Over the Moon Brew Co.,Multicuisine,3000,1500,25% Off :Payeazy,25,5.0,Gachibowli,Hyderabad
+Nosh Epicure,"French, Indian",2200,1100,20% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Casa D' Mocha,European,650,325,20% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Le Hacana Cafe & Kitchen,European,600,300,20% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Andhra Paris,Multicuisine,400,200,20% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Tim Hortons,Coffee,800,400,15% Off + 25% Off,25,5.0,Madhapur,Hyderabad
+Wraps Zone,Multicuisine,250,125,10% Off + 25% Off,25,5.0,Erragadda,Hyderabad
+Bisi Bisi,South Indian,700,350,15% Off + 25% Off,25,5.0,Hitech City,Hyderabad
+Claysutra Pottery Studio & Cafe,Multicuisine,1500,750,10% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+TOC Bakers,"Fast Food, Bakery",300,150,10% Off + 25% Off,25,5.0,Narayanguda,Hyderabad
+Peppanizze,Italian,400,200,15% Off + 25% Off,25,5.0,Padmarao Nagar,Hyderabad
+Far East Asia Restaurant,Multicuisine,400,200,10% Off + 25% Off,25,5.0,Nallagandla,Hyderabad
+Fantastic Four Cafe,"Chinese, Italian",1000,500,10% Off + 25% Off,25,2.5,Himayath Nagar,Hyderabad
+The ThickShake Factory,Beverages,350,175,10% Off + 25% Off,25,4.8,Himayath Nagar,Hyderabad
+Transcend Lounge Bar,Multicuisine,2200,1100,35% Off + 25% Off,35,4.0,Ellaa Residence,Hyderabad
+Flamingo Cafe Le Estamine,"Italian, Mexican",800,400,10% Off + 25% Off,25,3.9,Sainikpuri,Secunderabad
+Gourmet Bar,Multicuisine,5000,2500,25% Off + 25% Off,25,1.0,Novotel Hyderabad,Airport
+Kobe Sizzlers,Finger Food,1800,900,20% Off + 25% Off,25,4.2,Gachibowli,Hyderabad
+Ko Ko Kai,"Chinese, Pan Asian, Asian",1200,600,10% Off + 25% Off,25,4.2,Kokapet,Hyderabad
+ Veda Kitchen,Multicuisine,300,150,10% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+Vanabhojanam,South Indian,900,450,20% Off + 25% Off,25,1.0,Kukatpally,Hyderabad
+London Waffle Co ,"Desserts, Sandwiches, Milkshakes",250,125,15% Off + 25% Off,25,1.0,Himayath Nagar,Hyderabad
+Aathidyam,South Indian,600,300,25% Off :Payeazy,25,4.0,Madhapur,Hyderabad
+Chamkeela - The Cocktail House,Multicuisine,2500,1250,25% Off :Payeazy,25,5.0,Jubilee Hills,Hyderabad
+Coffee & More,European,400,200,10% Off + 25% Off,25,5.0,Madhapur,Hyderabad
+Panchendriya Restaurant,"Biryani, Chinese",700,350,25% Off :Payeazy,25,4.0,Gachibowli,Hyderabad
+Isha Life Mahamudra,Indian,650,325,10% Off + 25% Off,25,4.7,Jubilee Hills,Hyderabad
+Dine Inn China,"Multicuisine, Chinese",600,300,10% Off + 25% Off,25,5.0,Kondapur,Hyderabad
+Dum Matka,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Kondapur,Hyderabad
+Greens & More Spire,"Italian, European",400,200,15% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+CVs SriPada Restaurant ,South Indian,600,300,10% Off + 25% Off,25,4.0,S R Nagar,Hyderabad
+Greens & More Skyview,"Italian, European",400,200,15% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Biggies Burger,Burgers,300,150,15% Off + 25% Off,25,4.0,Moosapet,Hyderabad
+Wrap It,Mexican,200,100,10% Off + 25% Off,25,4.0,Shaikpet,Hyderabad
+South Pole,"Beverages, Desserts",400,200,10% Off + 25% Off,25,4.0,Shaikpet,Hyderabad
+Zen Paradise,Chinese,600,300,15% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Bon Appetit Cafe,European,350,175,10% Off + 25% Off,25,4.0,Shaikpet,Hyderabad
+Biggies Burger,Burgers,300,150,15% Off + 25% Off,25,4.0,Malakpet,Hyderabad
+Chinese Wok,Chinese,600,300,15% Off + 25% Off,25,4.0,Hitech City,Hyderabad
+Squisito Pizzeria,Multicuisine,400,200,15% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Sumadhura Ruchulu,"North Indian, South Indian",250,125,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Sanjos Donuts,Desserts,300,150,15% Off + 25% Off,25,4.0,Gaddiannaram,Hyderabad
+Shrimmers,"Fast Food, Burgers",300,150,15% Off + 25% Off,25,4.0,Padmarao Nagar,Hyderabad
+Burger Junction,Burgers,500,250,15% Off + 25% Off,25,4.0,Narsingi,Hyderabad
+Inti Ruchulu,South Indian,200,100,10% Off + 25% Off,25,4.0,Shaikpet,Hyderabad
+BAC Healthy,Fast Food,500,250,10% Off + 25% Off,25,4.0,Shaikpet,Hyderabad
+Cafe - The Multicuisine Restaurant,Multicuisine,1200,600,15% Off + 25% Off,25,4.0,The Grand Solitaire Hotel,Hyderabad
+Figaro's Pizza,"Pizza, Sandwiches, Salad",600,300,10% Off + 25% Off,25,5.0,Kondapur,Hyderabad
+House of Truly,"Coffee and Tea, Continental",600,300,10% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+The Pluto Cafe,Italian,500,250,10% Off + 25% Off,25,5.0,Malakpet,Hyderabad
+The Big Cup Theory,European,1000,500,10% Off + 25% Off,25,4.3,Madhapur,Hyderabad
+Bisi Bisi,South Indian,700,350,15% Off + 25% Off,25,3.5,Jubilee Hills,Hyderabad
+Oye Rock N Roll,"Milkshakes, Fast Food",400,200,30% Off + 25% Off,30,3.9,Abids,Hyderabad
+Tara - South Indian kitchen,Multicuisine,1400,700,10% Off + 25% Off,25,2.8,Kondapur,Hyderabad
+Koki Coffee & Co.,"Indian, Italian, Continental",1600,800,25% Off :Payeazy,25,5.0,Kokapet,Hyderabad
+Ambrouzia Modern Indian Kitchen,Modern Indian,1200,600,20% Off + 25% Off,25,4.0,Kokapet,Hyderabad
+The Chocolate Room,Multicuisine,800,400,25% Off + 25% Off,25,4.3,Attapur,Hyderabad
+Organic Kitchen,South Indian,300,150,15% Off + 25% Off,25,5.0,Chanda Nagar,Hyderabad
+Lord Of The Drinks,Multicuisine,1800,900,20% Off + 25% Off,25,4.0,"Road No. 45, Jubilee Hills",Hyderabad
+Oye Pizza,Italian,400,200,30% Off + 25% Off,30,3.5,Abids,Hyderabad
+Dreams Cafe,"European, Bakery",650,325,10% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Ambalchi Tadka,Multicuisine,900,450,10% Off + 25% Off,25,4.0,The Altruist Business Hotel - Hitech,Hyderabad
+Draak Espresso,"Bakery, European, Coffee",500,250,10% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Utsavam ,Indian,1000,500,10% Off + 25% Off,25,4.0,iStay Hotels Hitec City,Hyderabad
+Sholay Restaurant,Multicuisine,700,350,10% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Cafe Savora,"Beverages, Bakery",500,250,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+V.I.B.E Restaurant,Multicuisine,500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Golkondaa Biryani House,Multicuisine,600,300,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+The Fruit Custard - Madhapur,"Beverages, Sandwiches",250,125,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+QUAD Bar & Kitchen,Multicuisine,1600,800,30% Off + 25% Off,30,3.2,Film Nagar,Hyderabad
+Tadipatri Biryani,Biryani,1000,500,15% Off + 25% Off,25,1.0,Kondapur,Hyderabad
+Kritunga Restaurant - The Palegar's Cuisine,Multicuisine,1500,750,20% Off + 25% Off,25,3.3,Kompally,Hyderabad
+Alaknanda (All About Veg),Indian,1000,500,10% Off + 25% Off,25,3.0,LuLu Mall,Kukatpally
+Kritunga Restaurant - The Rayalaseema Cuisine,Multicuisine,1200,600,25% Off :Payeazy,25,4.0,Vattinagulapally,Hyderabad
+Quake Arena,Multicuisine,1800,900,25% Off :Payeazy,25,5.0,Kondapur,Hyderabad
+Teraso - The Indian Social Bar,Multicuisine,1400,700,25% Off :Payeazy,25,4.0,Nandagiri Hills,Hyderabad
+Cinnamon,Multicuisine,800,400,15% Off + 25% Off,25,4.0,Shamshabad,Hyderabad
+Vaikuntapuram Cafe,South Indian,300,150,15% Off + 25% Off,25,4.0,Kondapur,Hyderabad
+Casa Cafe Restaurant,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Rajendra Nagar,Hyderabad
+Café Click,Multicuisine,800,400,15% Off + 25% Off,25,4.0,Shamshabad,Hyderabad
+Biggies Burger,Burgers,300,150,15% Off + 25% Off,25,4.0,Aparna Neo Mall,Nallagandla
+Al Ammar Arabian Cafeteria,Arabian,250,125,15% Off + 25% Off,25,4.0,Saroor Nagar,Hyderabad
+Lazeez Khaana,Mughlai,1200,600,15% Off + 25% Off,25,4.4,Himayath Nagar,Hyderabad
+Olive Bistro,"European, Mediterranean",2500,1250,25% Off :Payeazy,25,4.4,Jubilee Hills,Hyderabad
+Express Cafe,Multicuisine,1175,587,10% Off + 25% Off,25,5.0,Holiday Inn Express Hyderabad HITEC,City
+The Sirara Cafe,Italian,500,250,10% Off + 25% Off,25,5.0,Vanasthalipuram,Hyderabad
+Udupis Taaza Kitchen,Multicuisine,800,400,25% Off :Payeazy,25,5.0,Manikonda,Hyderabad
+Beyond Flavours and Kitchen,Multicuisine,700,350,15% Off + 25% Off,25,2.0,Gachibowli,Hyderabad
+Cross Breed Clubs Kitchen,Multicuisine,1300,650,30% Off + 25% Off,30,2.4,Gachibowli,Hyderabad
+Curry Leaf Restaurant,Multicuisine,900,450,10% Off + 25% Off,25,4.1,Rester Select Kukatpally,Hyderabad
+360 Club & Kitchen,Multicuisine,1000,500,15% Off + 25% Off,25,4.1,Gsm Mall,Madeenaguda
+White Teak Coffee Roasters,"Cafe, Multicuisine",1000,500,10% Off + 25% Off,25,4.5,Sainikpuri,Secunderabad
+Ahoo Telugu Cuisine,South Indian,1200,600,25% Off :Payeazy,25,4.0,Gachibowli,Hyderabad
+Nectar Kitchen & Bar,"Pan Asian, Kababs, Indian",1200,600,20% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+Slice of Spice,"Indian, Barbeque",800,400,20% Off + 25% Off,25,4.0,Eastin Hotels,Madhapur
+Fiore Cafe,Multicuisine,1200,600,20% Off + 25% Off,25,4.0,Jubilee Hills,Hyderabad
+The Joint Al Mandi & Grill,Multicuisine,400,200,25% Off :Payeazy,25,3.2,Habsiguda,Hyderabad
+Jagadamba Junction.,"Biryani, Chinese",600,300,10% Off + 25% Off,25,5.0,Puppalguda,Hyderabad
+Old Mumbai Icecream,Ice Cream,300,150,10% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+Burger Reddy,Burgers,350,175,10% Off + 25% Off,25,5.0,Madhapur,Hyderabad
+Nati Ruchi,South Indian,500,250,10% Off + 25% Off,25,5.0,Kukatpally,Hyderabad
+Freekick - Sports Bar & Grill,"Finger Food, Cocktail Menu",1500,750,15% Off + 25% Off,25,5.0,"Thrill City, Necklace",Road
+Bharateeyam - The Indian Cuisine,Multicuisine,1200,600,20% Off + 25% Off,25,2.2,LuLu Mall,Kukatpally
+Crumbled Cheese Pizzeria,"Chinese, Italian",1000,500,Free Cocktail or Mocktail + 25% Off,25,5.0,Dilsukhnagar,Hyderabad
+9th Rhythm,"Chinese, Indian",400,200,10% Off + 25% Off,25,4.0,Hafeezpet,Hyderabad
+The Big Owl Cafe,Cafe,800,400,10% Off + 25% Off,25,4.0,Sainikpuri,Secunderabad
+Dakshin Vindu,Multicuisine,500,250,10% Off + 25% Off,25,4.0,Hafeezpet,Hyderabad
+Draak Cafe,Cafe,700,350,10% Off + 25% Off,25,4.0,Nanakramguda,Hyderabad
+KAPPU'S दा DHABA,Multicuisine,800,400,10% Off + 25% Off,25,4.0,Kharmanghat,Hyderabad
+Lunar Loft Cafe and Kitchen,"Chinese, Continental",1000,500,10% Off + 25% Off,25,4.0,B.N Reddy Nagar,Hyderabad
+Hakino's fine baking & Cafe,Continental,400,200,10% Off + 25% Off,25,4.0,Tellapur,Hyderabad
+Sampradaya Kitchen,South Indian,500,250,10% Off + 25% Off,25,4.0,Patancheruvu,Hyderabad
+Five Eleven Restaurant,South Indian,500,250,10% Off + 25% Off,25,4.0,Pashamylaram,Hyderabad
+Oak Leaf Rooftop Cafe,Multicuisine,400,200,10% Off + 25% Off,25,4.0,Sainikpuri,Secunderabad
+D Isthaas Shawarma,Shawarma,300,150,10% Off + 25% Off,25,4.0,L B Nagar,Hyderabad
+Lunico Cafe,Cafe,700,350,10% Off + 25% Off,25,4.0,Kompally,Hyderabad
+Shannus Kitchen,Multicuisine,400,200,10% Off + 25% Off,25,4.0,L B Nagar,Hyderabad
+D' First Cafe,Multicuisine,600,300,10% Off + 25% Off,25,4.0,Serilingampalle,Hyderabad
+Saga Bistro,Multicuisine,700,350,10% Off + 25% Off,25,2.3,Madhapur,Hyderabad
+Kalyana Vindhu,Multicuisine,800,400,10% Off + 25% Off,25,4.0,Kondapur,Hyderabad
+Ala The Terrace Lounge,Finger Food,2000,1000,10% Off + 25% Off,25,3.8,Kompally,Hyderabad
+Diablo Cocktail Bar & Kitchen,"European, Mediterranean, Asian",2000,1000,15% Off + 25% Off,25,3.8,Jubilee Hills,Hyderabad
+Tabula Rasa,Multicuisine,1200,600,25% Off :Payeazy,25,4.6,Gachibowli,Hyderabad
+Marley's Joint,Fast Food,700,350,10% Off + 25% Off,25,3.6,Sainikpuri,Secunderabad
+Brick & Branch,Multicuisine,1800,900,25% Off :Payeazy,25,5.0,Financial District,Hyderabad
+Ottimo,Italian,3000,1500,10% Off + 25% Off,25,4.2,ITC Kohenur,Hyderabad
+Baburao Gari Biryani,Biryani,300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Altair Cafe,Fast Food,500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Taste of shakes,Shakes,400,200,10% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Chef Man F & B,"European, Fast Food",250,125,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+La Rosetta,"Beverages, Italian",700,350,15% Off + 25% Off,25,4.0,Shaikpet,Hyderabad
+UFO Fries & Corn,American,300,150,10% Off + 25% Off,25,4.0,L B Nagar,Hyderabad
+Burger's Wharf,Fast Food,300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+ETC - Eat Talk Chill,"Chinese, Fast Food",300,150,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Shi-Tori,Multicuisine,600,300,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Jedi's waffles ,"Desserts, Milkshakes",600,300,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Masala Wok Biryani Restaurant,Mughlai,300,150,10% Off + 25% Off,25,4.0,Langer Houz,Hyderabad
+Palnadu - South Indian Kitchen,South Indian,500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Max Momos,Momos,200,100,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Milk Way Shake's,"Fast Food, Shakes",250,125,10% Off + 25% Off,25,4.0,Chanda Nagar,Hyderabad
+Delight Pavillion,Beverages,300,150,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Raja Vari Kitchen,Multicuisine,300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Fu-King,Chinese,400,200,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+The Shake Studio,"Beverages, Shakes",300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Eat Monk,European,400,200,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Monkey's Cafe,Cafe,300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Adbutha Aahar - The Authentic Kitchen,Multicuisine,200,100,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Blue Bliss,Desserts,500,250,10% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Waffle Studio,Desserts,300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Yard Bakery,"Bakery, Desserts",650,325,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Tharavadu - Kerala Cuisine,"Biryani, Kerala",500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Snack Time - Little More,"Italian, Sandwiches, Salad",500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Indian Kitchen,North Indian,500,250,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Cozmo Cafe & Bistro,Cafe,400,200,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Frullato - Thick Shakes & Desserts,"Desserts, Shakes",300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Fruit Mantra,"Fast Food, Beverages",300,150,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Auberry The Bake Shop,"Bakery, Cafe",1000,500,10% Off + 25% Off,25,5.0,Manikonda,Hyderabad
+Cafe Marka,Multicuisine,1200,600,10% Off + 25% Off,25,5.0,Jubilee Hills,Hyderabad
+M3 Biryanis Restaurant,North Indian,900,450,20% Off + 25% Off,25,3.0,Madeenaguda,Hyderabad
+The Board Game Cafe,"European, Chinese",800,400,10% Off + 25% Off,25,4.5,Himayath Nagar,Hyderabad
+Palanadu Ruchulu,South Indian,1000,500,15% Off + 25% Off,25,4.0,Nanakramguda,Hyderabad
+De' Cafe Studio,Multicuisine,500,250,30% Off + 25% Off,30,4.0,Malakpet,Hyderabad
+Beyond The Tree,Continental,600,300,10% Off + 25% Off,25,3.0,Tarnaka,Hyderabad
+Kesariya Restaurant ,Multicuisine,750,375,10% Off + 25% Off,25,3.7,Kondapur,Hyderabad
+Slounge,Finger Food,2000,1000,30% Off + 25% Off,30,4.0,Lemon Tree Premier,Hyderabad
+La Cupula,Multicuisine,1000,500,15% Off + 25% Off,25,2.0,Nallagandla,Hyderabad
+Shanghai Chef,Finger Food,1800,900,30% Off + 25% Off,30,4.0,Gachibowli,Hyderabad
+ Animal Club & Kitchen,Multicuisine,1400,700,30% Off + 25% Off,30,1.0,Gachibowli,Hyderabad
+Jewel of Nizam-The Minar,Mughlai,1800,900,10% Off + 25% Off,25,4.5,Gandipet,Hyderabad
+Beats Music Bar,Finger Food,1500,750,10% Off + 25% Off,25,1.0,Madhapur,Hyderabad
+Cafe 90's,Fast Food,300,150,10% Off + 25% Off,25,5.0,Hafeezpet,Hyderabad
+Chings Chinese & Thai,"Chinese, Thai",600,300,10% Off + 25% Off,25,5.0,Kothapet,Hyderabad
+Little Kitchen,Multicuisine,650,325,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Straws The Cafe,"Chinese, Italian, Burgers",500,250,10% Off + 25% Off,25,4.0,Narayanguda,Hyderabad
+Taha Cafe,Multicuisine,1300,650,10% Off + 25% Off,25,4.0,Begumpet,Hyderabad
+Shreeshah Kitchen Family Restaurant,"South Indian, Biryani",600,300,10% Off + 25% Off,25,4.0,"Kalyan Nagar, Hyderabad",Hyderabad
+Green Leaf,Multicuisine,400,200,10% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Brew Haven Cafe,"Beverages, Fast Food",350,175,10% Off + 25% Off,25,4.0,Himayath Nagar,Hyderabad
+Sai Kailash Dhaba,"Indian, Chinese",800,400,10% Off + 25% Off,25,3.7,Attapur,Hyderabad
+Alfresco,Multicuisine,1400,700,30% Off + 25% Off,30,2.9,Ibis Hotel,Hyderabad
+A19 Klub & Kitchen,"European, Asian",2000,1000,30% Off + 25% Off,30,1.0,Sarath City Capital Mall,Kondapur
+Cafe Lilliput,"Cocktail Menu, Multicuisine",1200,600,10% Off + 25% Off,25,3.5,Madhapur,Hyderabad
+Pakoda Hub,Street Food,500,250,10% Off + 25% Off,25,4.0,Nizampet,Hyderabad
+SWING LOUNGE,Multicuisine,1800,900,25% Off :Payeazy,25,5.0,Hitech City,Hyderabad
+Potlam Biryani,Multicuisine,400,200,10% Off + 25% Off,25,4.0,Bachupally,Hyderabad
+Captain Panda,"Fast Food, Chinese",400,200,10% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Annapurna Vilas,South Indian,600,300,10% Off + 25% Off,25,4.0,Kompally,Hyderabad
+Cafe ,Cafe,350,175,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Deccan Chai Cafe,"Bakery, Cafe",500,250,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Backbenchers Kaffe,Multicuisine,300,150,10% Off + 25% Off,25,4.0,Shamshabad,Hyderabad
+Sri Ridhz Kitchen,Multicuisine,400,200,10% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+The Fish Revolution,Multicuisine,400,200,10% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+Cravehub Cafe,Fast Food,300,150,10% Off + 25% Off,25,4.0,Vanasthalipuram,Hyderabad
+MJ Home Bakes,Bakery,300,150,10% Off + 25% Off,25,4.0,Nallagandla,Hyderabad
+Snake Bite,Pizza,500,250,10% Off + 25% Off,25,4.0,Patancheruvu,Hyderabad
+Seasonal Juice Bar,Juices,250,125,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Musicafe ,Cafe,300,150,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+ InkoTea,Bakery,400,200,10% Off + 25% Off,25,4.0,Hafeezpet,Hyderabad
+Kafetearia,Cafe,450,225,10% Off + 25% Off,25,4.0,Sainikpuri,Secunderabad
+Moffles,Fast Food,200,100,10% Off + 25% Off,25,4.0,Saroor Nagar,Hyderabad
+Teenmaar Restaurant,"Biryani, Chinese",300,150,10% Off + 25% Off,25,4.0,Vanasthalipuram,Hyderabad
+Red Bucket Biryani,Biryani,400,200,10% Off + 25% Off,25,4.0,Nizampet,Hyderabad
+Bae-King,Fast Food,300,150,10% Off + 25% Off,25,4.0,Nizampet,Hyderabad
+Hunger Stories,"Italian, Shawarma, Milkshakes",300,150,10% Off + 25% Off,25,4.0,Vanasthalipuram,Hyderabad
+Daddy's Kitchen,North Indian,400,200,10% Off + 25% Off,25,4.0,Kondapur,Hyderabad
+The Snack Park,Chinese,300,150,10% Off + 25% Off,25,4.0,Alwal,Secunderabad
+Bowls and Brews,Cafe,800,400,10% Off + 25% Off,25,4.0,Miyapur,Hyderabad
+Few Silly Reasons,Cafe,600,300,10% Off + 25% Off,25,4.0,Miyapur,Hyderabad
+Melted Magic,Desserts,200,100,10% Off + 25% Off,25,4.0,Kharmanghat,Hyderabad
+Maa Radha’s Chats & Bites,Chinese,500,250,10% Off + 25% Off,25,4.0,Kondapur,Hyderabad
+Burgers Bistro ,Cafe,400,200,10% Off + 25% Off,25,4.0,Miyapur,Hyderabad
+Cafe Tanishi,Cafe,400,200,10% Off + 25% Off,25,4.0,Bachupally,Hyderabad
+Adharaho,Cafe,600,300,10% Off + 25% Off,25,4.0,Secunderabad,Hyderabad
+KGF Italian Wood Fire Pizza,Pizza,500,250,10% Off + 25% Off,25,4.0,Srinagar Colony,Hyderabad
+Amrutha Paniyam,Cafe,600,300,10% Off + 25% Off,25,4.0,Chanda Nagar,Hyderabad
+On The Fire,Multicuisine,600,300,10% Off + 25% Off,25,4.0,Uppal,Hyderabad
+Har Dum Biryani,Biryani,500,250,10% Off + 25% Off,25,4.0,Nizampet,Hyderabad
+Cool Buzz,"Beverages, Ice Cream",200,100,10% Off + 25% Off,25,4.0,Shamshabad,Hyderabad
+The Belgian Truffle,"Bakery, Cafe",400,200,10% Off + 25% Off,25,4.0,Nacharam,Hyderabad
+Claws N Wings,Multicuisine,450,225,10% Off + 25% Off,25,4.0,Alwal,Secunderabad
+Big Bites Shawarma & Momos,Fast Food,300,150,10% Off + 25% Off,25,4.0,Bachupally,Hyderabad
+Crackpot,Chinese,200,100,10% Off + 25% Off,25,4.0,Sainikpuri,Secunderabad
+Ananthapatnam,South Indian,400,200,10% Off + 25% Off,25,4.0,Kukatpally,Hyderabad
+Hentastic Bites,"Fast Food, Chinese",300,150,10% Off + 25% Off,25,4.0,Hafeezpet,Hyderabad
+Taagandi,Cafe,300,150,10% Off + 25% Off,25,4.0,Miyapur,Hyderabad
+Kapu's Cafe,Fast Food,200,100,10% Off + 25% Off,25,4.0,Saroor Nagar,Hyderabad
+U Snacks,Cafe,300,150,10% Off + 25% Off,25,4.0,Bachupally,Hyderabad
+Sarovar Street,South Indian,400,200,10% Off + 25% Off,25,4.0,Bachupally,Hyderabad
+Fry'd Chicken House,Chinese,300,150,10% Off + 25% Off,25,4.0,Kothapet,Hyderabad
+The New Batido,Fast Food,300,150,10% Off + 25% Off,25,4.0,Kothapet,Hyderabad
+Via Moka,North Indian,1200,600,30% Off + 25% Off,30,4.0,Shankarpally,Hyderabad
+Takita Takita Kitchen,Multicuisine,900,450,10% Off + 25% Off,25,1.4,Kompally,Hyderabad
+SALT Indian Restaurant Bar & Grill,Indian,1800,900,15% Off + 25% Off,25,3.2,Hitech City,Hyderabad
+Ohri's Mehfill ,Indian,1200,600,15% Off + 25% Off,25,3.9,S D Road,Secunderabad
+Trick Bar & Kitchen By 10D,Multicuisine,2500,1250,25% Off :Payeazy,25,5.0,Nallagandla,Hyderabad
+Cock & Bull,"Cocktail Menu, Multicuisine",3000,1500,25% Off :Payeazy,25,4.5,Hitech City,Hyderabad
+Indian Tiffin Room ,South Indian,700,350,20% Off + 25% Off,25,4.0,Madhapur,Hyderabad
+Dappalam ,Multicuisine,1000,500,10% Off + 25% Off,25,1.0,Tellapur,Hyderabad
+Yaraa Culinary Cafe,Multicuisine,600,300,15% Off + 25% Off,25,5.0,Gachibowli,Hyderabad
+Pawwa Everyday Bar + Bites,Multicuisine,1000,500,25% Off :Payeazy,25,5.0,BN Reddy Colony,Hyderabad
+Pandhem Kodi Pakasala,Multicuisine,1000,500,15% Off + 25% Off,25,3.8,Kukatpally,Hyderabad
+Thunderbolt Cafe,Multicuisine,1000,500,25% Off :Payeazy,25,5.0,"Road No. 36, Jubilee Hills",Hyderabad
+Sardaar Ji-Flavours of Punjab,North Indian,700,350,25% Off :Payeazy,25,5.0,Gandipet,Hyderabad
+Drip Drop Cafe and Restaurant,"American, European",700,350,20% Off + 25% Off,25,3.8,Gachibowli,Hyderabad
+ Era Bistro & Global Kitchen,Multicuisine,1500,750,25% Off :Payeazy,25,4.5,Film Nagar,Hyderabad
+Sehari Cafe,"Chinese, European",800,400,25% Off + 25% Off,25,4.0,Nagole,Hyderabad
+The Falcon Cafe,Multicuisine,1500,750,25% Off + 25% Off,25,4.0,Nirvana Club,Hyderabad
+Cold Stone Creamery,Ice Cream,700,350,25% Off :Payeazy,25,4.3,Begumpet,Hyderabad
+Padmaraga Restaurant & Cafe,Multicuisine,1500,750,15% Off + 25% Off,25,4.6,Kukatpally,Hyderabad
+Forbes Cafe & Restaurant,Multicuisine,500,250,25% Off + 25% Off,25,4.0,Dilsukhnagar,Hyderabad
+Art & Arbor Cafe,Cafe,1000,500,25% Off :Payeazy,25,5.0,Secunderabad,Hyderabad
+Peacock Bar,"Finger Food, Cocktail Menu",2000,1000,10% Off + 25% Off,25,4.9,ITC Kohenur,Hyderabad
+Chronicles Cafe & Kitchen,"Chinese, Italian, Mediterranean",800,400,25% Off :Payeazy,25,4.0,Uppal,Hyderabad
+Seasons Restaurant and Bar,"Cocktail Menu, Multicuisine",1500,750,25% Off :Payeazy,25,4.5,Kukatpally,Hyderabad
+Kuch Bhi ,Chinese,1000,500,25% Off :Payeazy,25,4.0,Jubilee Hills,Hyderabad
+Van lavino Sip & Smash ,Continental,1400,700,25% Off :Payeazy,25,4.0,"Road No. 46, Jubilee Hills",Hyderabad
+Viroha Cafe,South Indian,200,100,25% Off :Payeazy,25,4.0,Madhapur,Hyderabad
+House of Prema,"South Indian, Fusion",2000,1000,25% Off :Payeazy,25,4.0,Jubilee Hills,Hyderabad
+WAREHOUSE.,Multicuisine,1400,700,25% Off :Payeazy,25,4.0,Madhapur,Hyderabad
+Bloom Café,Multicuisine,1200,600,25% Off :Payeazy,25,4.0,Bloom Hotel - Jubilee Hills,Hyderabad
+Tundey Kababi,"Lucknowi, Awadhi",700,350,15% Off + 25% Off,25,4.0,Gachibowli,Hyderabad
+Siri Lit Café,Multicuisine,500,250,25% Off + 25% Off,25,3.3,Kothapet,Hyderabad
+Axone,North Eastern,1500,750,10% Off + 25% Off,25,5.0,Hitech City,Hyderabad
+Spice And Sizzle By Karachi Bakery,Multicuisine,1500,750,10% Off + 25% Off,25,5.0,Hitech City,Hyderabad
+Tamak,Multicuisine,1000,500,15% Off + 25% Off,25,4.0,Bloom Hotel,Hyderabad
+Uppu Telugu Kitchen,"Andhra, North Indian",1200,600,15% Off + 25% Off,25,3.6,S D Road,Secunderabad
+Sky Point,Finger Food,2000,1000,10% Off + 25% Off,25,4.1,ITC Kohenur,Hyderabad
+Coffee & Crisps,Multicuisine,800,400,10% Off + 25% Off,25,4.5,Saroor Nagar,Hyderabad
+The Story Cafe,"Chinese, Continental",500,250,10% Off + 25% Off,25,5.0,Kompally,Hyderabad
+Hashtag Cafe,Multicuisine,350,175,20% Off + 25% Off,25,4.0,Vanasthalipuram,Hyderabad
+Norfest - The Dhaba,"Chinese, North Indian",800,400,10% Off + 25% Off,25,1.0,Himayath Nagar,Hyderabad
+Queen's Heart,Cafe,800,400,15% Off + 25% Off,25,5.0,L B Nagar,Hyderabad
+Cafe Game Theory,Multicuisine,800,400,25% Off + 25% Off,25,2.7,Kompally,Hyderabad
