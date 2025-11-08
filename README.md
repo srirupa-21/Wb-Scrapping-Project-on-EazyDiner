@@ -1,1 +1,1 @@
-# Wb-Scrapping-Project-on-EazyDiner
+# Web-Scrapping-Project-on-EazyDiner
